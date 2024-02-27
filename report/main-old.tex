@@ -1,0 +1,130 @@
+
+% VLDB template version of 2020-08-03 enhances the ACM template, version 1.7.0:
+% https://www.acm.org/publications/proceedings-template
+% The ACM Latex guide provides further information about the ACM template
+
+\documentclass[sigconf, nonacm]{acmart}
+
+%% The following content must be adapted for the final version
+% paper-specific
+\newcommand\vldbdoi{XX.XX/XXX.XX}
+\newcommand\vldbpages{XXX-XXX}
+% issue-specific
+\newcommand\vldbvolume{14}
+\newcommand\vldbissue{1}
+\newcommand\vldbyear{2020}
+% should be fine as it is
+\newcommand\vldbauthors{\authors}
+\newcommand\vldbtitle{\shorttitle} 
+% leave empty if no availability url should be set
+\newcommand\vldbavailabilityurl{URL_TO_YOUR_ARTIFACTS}
+% whether page numbers should be shown or not, use 'plain' for review versions, 'empty' for camera ready
+\newcommand\vldbpagestyle{plain} 
+
+\begin{document}
+\title{Title}
+
+%%
+%% The "author" command and its associated commands are used to define the authors and their affiliations.
+\author{Pranav Shetty}
+\affiliation{%
+  \institution{23332501}
+}
+\email{shettyp@tcd.ie}
+
+\author{Neimhin Robinson Gunning}
+\affiliation{%
+  \institution{Registeration Number}
+}
+\email{email@tcd.ie}
+
+\author{Ben Vaughan}
+\affiliation{%
+  \institution{19333871}
+}
+\email{vaughabe@tcd.ie}
+
+\author{Aadesh Milind Rasal}
+\affiliation{%
+  \institution{22301280}
+}
+\email{rasala@tcd.ie}
+
+\author{Tarun Singh}
+\affiliation{%
+  \institution{Registeration Number}
+}
+\email{email@tcd.ie}
+
+%%
+%% The abstract is a short summary of the work to be presented in the
+%% article.
+\begin{abstract}
+bla blah
+\end{abstract}
+
+\maketitle
+
+%%% do not modify the following VLDB block %%
+%%% VLDB block start %%%
+\pagestyle{\vldbpagestyle}
+%%% VLDB block end %%%
+
+\section{Introduction}
+
+blah blah 
+
+\section{Literature Review}
+
+Joshi, Bhattacharyya and Carman (2024) discuss the advancements and techniques in identifying sarcasm in written text. They point out advancements such as semi-supervised pattern extraction, hashtag-based supervision and considering surrounding details beyond the main text. The authors stress the importance of context in understanding sarcasm, highlighting factors like author context and conversational setting. They also address challenges like data accuracy from hashtag labeling, cultural differences in recognizing sarcasm and biases in datasets due to the rarity of sarcastic expressions. In their closing remarks they propose research avenues involving deep learning models and the necessity to account for culture specific elements in detecting sarcasm. 
+
+In a study by Garg (2023) an extensive analysis of health in social media posts was conducted, exploring the link between social media activity and mental well being. Using machine learning (ML) and deep learning (DL) techniques the research categorizes health conditions such as stress, depression and suicidal thoughts by examining data extracted from social media. Through a review of 92 articles Garg identifies approaches in data extraction, classification methods and advancements in artificial intelligence models. The study underlines the importance of real time ethical AI models for health assessment while suggesting paths for integrating social computing into healthcare practices. This research provides a framework for analyzing health on social platforms showcasing how computational intelligence can improve our understanding of mental health issues using insights from social media content. 
+
+
+Neviarouskaya et al. (2010) developed a rule-based algorithm for recognizing attitude in terms of affect (negative and positive), judgement (negative and positive), and appreciation. The algorithm systematically classifies constituent sentence parts, enabling classification of entire sentences. Their theory of attitude and algorithm apply at three levels: top level (positive, negative, neutral), mid level (further subdividing positive and negative into affect, judgement, and appreciation), and fine-grained level (dividing affect into interest, joy, surprise, anger, disgust, fear, guilt, sadness, shame). The algorithm accommodates negation, sentiment amplification, and neutralization. A corpus of human-annotated sentences is compared to the automated system's results. The automated system exhibits greater agreement with human annotations than a baseline system. Neviarouskaya et al. (2010) discuss system failures and failure modes, noting highest accuracy at the top level classification and decreasing accuracy for finer grained classifications. 
+
+In a study by Miller (2020), the motivations behind intimate self disclosure among 628 Reddit users are explored, with a focus on their internet behavior and usage of subreddits along with psychological factors like connectedness and sensation seeking. The findings reveal a connection between sensation seeking and sharing information on Reddit’s anonymous platform but not with narcissism. This suggests that such disclosures may arise from feelings of disconnection. Miller proposes investigation to understand what drives users to interact with and respond to posts seeking advice taking into account factors such as empathy versus boredom and the appeal of shock value. 
+
+Pennebaker et al. (2015) introduces the LIWC2015 program designed to analyze texts, for psychological and developmental traits through relative word frequencies particularly focusing on negative emotions categorized into anxiety, anger and sadness. The study emphasizes an examination of negative emotions compared to positive ones while discussing the evolution of LIWC dictionaries and classifications. Extensive manual work and collaboration were involved in the process to improve the accuracy and addressing inconsistencies. The research also delves into the difficulties of measuring consistency in linguistic psychometrics suggesting that using the Spearman Brown prediction formula may be more dependable than Cronbach’s alpha for evaluating word category consistency. 
+
+In Alfandre (2009) study, the complexities surrounding patients discharged against medical advice (AMA) are examined, accounting for 1\% to 2\% of hospital admissions. The paper identifies risk factors for AMA discharges such as substance abuse, younger age, male gender and lack of insurance. It emphasizes the need for research on interventions to reduce AMA discharges and proposes exploring psychiatric literature for potential solutions. The study advocates for exploration of patient, clinician and hospital factors to develop strategies while underlining the importance of informed consent and health literacy. 
+
+Maas et al. (2011) introduce a method for acquiring word vectors that effectively capture sentiment information beyond traditional models. Their dual focused model combines supervised and unsupervised learning methods to excel in sentiment analysis by utilizing both labeled and unlabeled data. Through experiments using a dataset of movie reviews from IMDB, their approach proves superior in sentiment classification tasks compared to previous methods. 
+
+Singh and Sharma (2023) extensively examine methods for detecting sarcasm in communication exploring machine learning, deep learning and cognitive strategies across different languages and platforms like social media and product reviews. The study also addresses obstacles like nuances and data imbalances while proposing future research avenues. Despite the effectiveness of learning techniques compared to methods challenges such as dataset size requirements and the nuanced nature of sarcasm persist indicating areas for potential improvements, in detection accuracy.
+
+ Proferes et al. (2021) conducted an analysis that explores the ways Reddit data has been used in research from 2010, to 2020. Their study carefully examines the methods, features and ethical considerations related to incorporating Reddit as a data source in studies. Key findings highlight the importance of moderator approval in Reddit communities, the increasing popularity of Pushshift as a data platform and the growing trend of research publications utilizing Reddit data across fields. Additionally the authors emphasize the need for researchers to address biases in Reddit data and stress the significance of considering ethical issues such as anonymity and privacy protection. 
+
+Adelina et al. (2023) investigate the interactions between support seeking messages and their reception within the Reddit community. Using Latent Profile Analysis to analyze text content their research reveals the relationship between content of the post and the support received. By preprocessing text and employing classification analysis with machine learning algorithms they uncover patterns in how support is provided. Their findings suggest that while social support quantity remains consistent across profiles, variations in quality and type of support are influenced by the coherence and tone of posts. This study highlights the impact that written content has, on fostering connections within online platforms such as Reddit providing valuable perspectives for upcoming research on the dynamics of social support in digital settings. 
+
+“G. Brookes” presents two studies about employing text corpus to correlate practitioner-led conversations to mental distress or self-harm. The corpus used is collected from AHEC it is a 1.6-million-word corpus consisting of advice-seeking emails sent from adolescents to the THF website there are a total of 62,794 emails from Jan 2004 to Dec 2005, and are unedited to ensure the message contains the right choice of words. Inductive keyword analysis was used to detect the important features in the corpus. These themes, specifically depression and self-harm were inspected via examination of collocates and close readings of the concordance lines surrounding the keywords. The use of a wordsmith tool to carry out corpus activity was preferred by the authors it is a concordance software then the collocation was calculated via MI (mutual information). It is a statistical measure of defining mutual dependence between 2 random variables. 
+
+“Jingfang Liu, Jun Kong” depicts the factors affecting the number of likes and reposts in online mental health communities, based on the information adoption model. The data analyzed consists of 47,307 posts from the Chinese online mental health community, employing text-mining and empirical analysis methods. In this research, it is evident that topics of social experience and emotional expression, emotional strength, the length and the picture of the post, along with the identity and influence of the posters, all had significant positive relationships with the number of likes and reposts.
+
+\citet{mikolov-2013} propose two neural network based models for learning vector representations of words. A Huffman trie is used for word tokenization. The Continuous Bag of Words model is trained to predict a missing word, given the word's context, and the Skip-Gram model is trained to predict the contextual words, given a central word. The properties of the extracted word-embeddings are tested on a novel test set, and it is shown that syntactic and semantic relationships between words have analogies to arithmetic operations of the vector representations in many cases. Vector representations of words based on Context Vectors had already been demonstrated, but the strong performance of the representations for both syntactic and semantic relationships was of note. The intuitive mapping of algebra of word representations to semantic associations between words has facilitated new applications and approaches to text analysis.
+
+
+
+\section{Research Question}
+
+Miller (2020, 56) suggested investigating the motivations behind engagement with confessionary public social media postings, in particular whether it is empathetic concern or sensationalism/“shock value” that drives engagement. We seek to answer similar questions but in a slightly different forum, specifically in public spontaneous advice-seeking discussions with a confessionary bent on social media. Also, we take in an interest in different types of engagement, empathetic/compassionate/productive engagement, in contrast with sensationalist/antagonistic/trolling engagement.\\
+We narrow our focus to discussions initiated by advice-seeking posts with an authentic, vulnerable tone, avoiding, as far as possible, the inclusion of deceptive, purely comedic, or mocking submissions (although responses with comedic/deceptive/mocking intention are still of interest to us). In other words, we want to answer questions about cases where posters are facing a genuine moral dilemma and soliciting advice in good faith.\\
+Especially interesting to us are the cases where advice-seekers are given ‘bad news’ (in particular, a negative moral judgement of the advice-seeker’s character or behaviour), and yet show appreciation towards the person who delivers the ‘bad news’. What are the textual markers and schematics of such well-received, negative advice-giving comments?\\
+On the other side of the spectrum, we take an interest in cases where the public discussion devolves into antagonistic and hateful rhetoric. What are the textual markers and schematics advice-seeking posts that coincide with threads developing poorly? In other words, can we extract specific words, phrases, patterns of discourse that one should avoid when genuinely seeking compassionate and nuanced moral advice on public social media fora? Therefore, to answer this question, we are interested in cases in which the original advice-seeking post exhibits an authentic solicitation relating to a genuine moral dilemma.\\
+Finally, can there be a therapeutic benefit to the advice-seeker by submitting their moral dilemma to public scrutiny?
+
+
+\section{Research Methodology}
+
+blah blah
+
+
+
+%\clearpage
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{sample}
+
+\end{document}
+\endinput
+
