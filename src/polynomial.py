@@ -36,6 +36,7 @@ def poly_transformer(yname):
     for i, c in enumerate(model.coef_[0]):
         if c != 0.0:
             indices.append(i)
+            print(feature_type(i), c)
     print("num features to include: ", len(indices))
     mask = model.coef_[0] != 0.0
     X_train_best = X_train[:, mask]
@@ -62,7 +63,9 @@ transform_animosity, mask_animosity, poly_animosity = poly_transformer('animosit
 X_animosity_poly, X_animosity = transform_animosity(features.X_bert, features.X_bow)
 
 if __name__ == "__main__":
-    print(X_thankfulness)
-    print(X_thankfulness_poly)
-    print(X_animosity)
-    print(X_animosity_poly)
+    print(X_thankfulness.shape)
+    print(X_thankfulness_poly.shape)
+    print(poly_thankfulness.get_feature_names_out())
+    print(X_animosity.shape)
+    print(X_animosity_poly.shape)
+    print(poly_animosity.get_feature_names_out())

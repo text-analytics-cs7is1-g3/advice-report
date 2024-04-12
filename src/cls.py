@@ -25,14 +25,14 @@ def report(model,  X_test, y_test):
 Xa = polynomial.X_animosity_poly
 ya = features.y_animosity
 
-model_animosity = LogisticRegression(penalty='l1', solver="liblinear", C=10**4, fit_intercept=True)
+model_animosity = LogisticRegression(penalty='l1', solver="liblinear", C=10**4, fit_intercept=True, random_state=42)
 model_animosity.fit(Xa, ya)
 
 
 Xt = polynomial.X_thankfulness_poly
 yt = features.y_thankfulness
 
-model_thankfulness = LogisticRegression(penalty='l1', solver="liblinear", C=10**4, fit_intercept=True)
+model_thankfulness = LogisticRegression(penalty='l1', solver="liblinear", C=10**4, fit_intercept=True, random_state=42)
 model_thankfulness.fit(Xt, yt)
 
 def animosity(comment_embeddings, comment_texts):
@@ -43,6 +43,7 @@ def animosity(comment_embeddings, comment_texts):
 
 def thankfulness(comment_embeddings, comment_texts):
     bow_features = features.bow.transform(comment_texts)
+    print(comment_embeddings.shape)
     X_poly, X_in = polynomial.transform_thankfulness(comment_embeddings, bow_features)
     y_pred= model_thankfulness.predict(X_poly)
     return y_pred
@@ -51,6 +52,9 @@ if __name__ == "__main__":
     features.df
     apred = animosity(features.X_bert, features.df["Document"])
     tpred = thankfulness(features.X_bert, features.df["Document"])
-    pd.DataFrame({
+    df = pd.DataFrame({
         "animosity predictions": apred,
-        "thankfulness predictions": tpred,}).to_csv("fig/sanity-check-predictions.csv")
+        "thankfulness predictions": tpred,})
+    print(df["animosity predictions"].mean())
+    print(df["thankfulness predictions"].mean())
+    df.to_csv("fig/sanity-check-predictions.csv")
