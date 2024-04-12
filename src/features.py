@@ -8,16 +8,40 @@ from sklearn.linear_model import LinearRegression, Lasso
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.feature_extraction.text import TfidfTransformer
 
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+import pandas as pd
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from collections import Counter
+import string
+import nltk
+import re
+from nltk.stem import PorterStemmer
+nltk.download('stopwords')
+nltk.download('punkt')
+
+stop_words = set(stopwords.words('english'))
+stemmer = PorterStemmer()
+
+def process_text(text):
+    tokens = word_tokenize(text.lower())
+    stemmed_tokens = [stemmer.stem(token) for token in tokens if token.isalnum() and token not in stop_words]
+    return stemmed_tokens
+
 
 def id2filename(i):
     return f"data/man-embeddings/{i}.pt"
 
 df = pd.read_csv("data/manual-incomplete.csv")
+df["document-stemmed"]      = df["Document"].apply(process_text)
 df["embedding-filename"]    = df["id"].apply(id2filename)
 df["embedding"]             = df["embedding-filename"].apply(torch.load).apply(lambda x: x.numpy())
 
 X_counts                    = CountVectorizer().fit_transform(df["Document"])
-X_bow                       = CountVectorizer(binary=True).fit_transform(df["Document"])
+bow = CountVectorizer(binary=True)
+X_bow                       = bow.fit_transform(df["Document"])
+bow_feature_names           = bow.get_feature_names_out()
 X_tf                        = TfidfTransformer(use_idf=False).fit(X_counts).transform(X_counts)
 X_tfidf                     = TfidfTransformer(use_idf=True).fit(X_counts).transform(X_counts)
 X_bert                      = np.array(df["embedding"].to_list())
