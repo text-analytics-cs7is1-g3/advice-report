@@ -15,12 +15,13 @@ if split != 1 and split != 2:
 
 dfa = None
 try:
-    dfa = pd.read_csv(f"data/ds2-animosity-part{split}.csv")
+    dfa = pd.read_csv(f"data/ds2-animosity-part{split}.csv", usecols=["comment_id", "animosity"])
 except:
     print("Exception: creating animosity file")
     dfa = pd.read_csv(f"data/processed_part{split}.csv", usecols=["comment_id"])
     dfa["animosity"] = dfa["comment_id"].apply(lambda x: 'none')
     dfa.to_csv(f"data/ds2-animosity-part{split}.csv")
+print(dfa.describe())
 
 os.makedirs(f"data/ds2-embeddings-part{split}/", exist_ok=True)
 chunksize = 2048
@@ -56,16 +57,15 @@ for df in dfi:
     dfs = df[need_to_create_mask]
     dfs["embeddings"] = dfs["id"].apply(load_tensor)
     can_try = dfs["embeddings"].apply(lambda x: x is not None)
-    dfs = dfs[can_try]
-    dfs["embeddings"] = dfs["embeddings"].apply(lambda x: x.numpy())
+    dfss = dfs[can_try]
+    if len(dfss) > 0:
+        dfss["embeddings"] = dfss["embeddings"].apply(lambda x: x.numpy())
 
-    dfs["body"]=dfs["comment_body"]
-    inputs = dfs["body"].tolist()
-    X_bert = np.array(dfs["embeddings"].tolist())
-    pred_animosity = cls.animosity(X_bert, inputs)
-
-    dfa.loc[dfs.index, "animosity"] = pred_animosity
+        inputs = dfss["comment_body"].tolist()
+        X_bert = np.array(dfss["embeddings"].tolist())
+        pred_animosity = cls.animosity(X_bert, inputs)
+        dfa.loc[dfss.index, "animosity"] = pred_animosity
 
     t1 = time.perf_counter()
-    print(f"\nclassified {len(dfs)} docs in {t1 - t0:.0f} seconds")
-    dfa.to_csv(f"data/ds2-animosity-part{split}.csv")
+    print(f"\nclassified {len(dfss)} docs in {t1 - t0:.0f} seconds")
+    dfa.to_csv(f"data/ds2-animosity-part{split}.csv", index=False)
