@@ -1,0 +1,432 @@
+id,Document,you' as subject,,.name,"Source (contrived by author, r/AmItheAsshole submission or comment)",thankfulness a1 Neimhin,animosity a1 Neimhin,thankfulness a2 Pranav,animosity a2 Pranav,thankfulness a3 Tarun,animosity a3 Tarun,thankfulness a4 Ben,animosity a4 Ben,thankfulness a5 Aadesh,animosity a5 Aadesh,mean thankfulness,mean animosity,mode thankfulness,mode animosity,,0.3333333333,0.2817460317,animosity sanity check,thankfulnessanity check
+man-0,That's really helpful. I appreciate you taking the time to explain this so carefully!,1,,,contrived-a1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-1,"Yeah, I think you're right. Tbh I hadn't really considered it that way at all, thanks for pointing out my mistake.",1,,,contrived-a1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-2,I think I get it. I hate it. But I get it. I kind of hate you right now but at the same time I'm grateful for your honesty and integrity.,0,,,contrived-a1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,0,0,1,1
+man-3,"Wow, this is amazing! Cheers for this!",0,,,contrived-a1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-4,You're the best!,1,,,contrived-a1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-5,What was the point of you saying this? So unhelpful.,1,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-6,"This is really not adding anything to the discussion, I'm going to report you to the mods.",1,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-7,ffs stfu,0,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-8,That's just about the worst take I've ever heard.,0,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-9,Tbh I don't think this conversation is going anywhere.,0,,,contrived-a1,0,0,0,0,0,0,0,1,0,0,0,0.2,0,0,,0,0,0,0
+man-10,You're an idiot. Read the goddamn post. You don't know what you're talking about.,1,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-11,Who hurt you?,0,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-12,"Thanks, but I won't be taking advice from a butt-hurt incel. Get a life.",0,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-13,You need help dude.,1,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-14,"Don't downvote assholes, asshole!",0,,,contrived-a1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-15,"YTA. I'm really sorry for you and tbh I really appreciate you sharing your story so frankly, but I think you need to understand that what you did is not ok. You're not necessarily to blame, you've had really shitty advice from people close to you and people of authority, but the result is that you are now acting like a big asshole.",,,,contrived-a1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-16,"This really sucks, for everyone involved. I hate that this kind of stuff still happens. None of you are bad people, but there's a shitty dynamic going that's destroying everyone's capacity for care and compassion. Try to stay strong, better days will come.",,,,contrived-a1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-17,Stay strong my dude.,,,,contrived-a1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-18,You are an interesting fellow.,,,,contrived-a1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-19,That is fucking wild. I can hardly believe this.,,,,contrived-a1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-20,"Seriously, you're a lifesaver! Can't thank you enough for today. You really made a huge difference. Heartfelt thanks!",,,,contrived-a2,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-21,Didn't expect this at all! You made my day 100x better. Thanks a ton for being so awesome!,,,,contrived-a2,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-22,"Honestly, you're the best. Thanks for always being there and making things better. You rock! ",,,,contrived-a2,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-23,Feeling blessed to have your support. ,,,,contrived-a2,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-24,Your advice was spot-on! Thanks for taking the time to share your thoughts. Really made a difference.,,,,contrived-a2,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-25,"Meh, I saw it. Was hoping for more, but guess that’s what we’ve got.",,,,contrived-a2,0,0,0,0,0,1,0,0,0,1,0,0.4,0,0,,0,0,0,0
+man-26,"Hmm, got your message. It didn’t really do anything for me, but okay.",,,,contrived-a2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-27,"That was your idea of help? Okay, cool. Thanks for the attempt, anyway.",,,,contrived-a2,0,1,0,1,0,1,1,1,0,1,0.2,1,0,1,,0,0,1,0
+man-28,"I noticed what you did there. Didn’t exactly hit the mark for me, but thanks for the effort, I guess.",,,,contrived-a2,1,0,1,0,0,0,1,0,0,0,0.6,0,1,0,,0,0,0,1
+man-29,"Well, that happened. Can’t say I’m thrilled, but what’s done is done.",,,,contrived-a2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-30,"You've gotta be trolling. No one is this clueless naturally, right?",,,,contrived-a2,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-31,This whole thing is a dumpster fire. wtf were you thinking?,,,,contrived-a2,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-32,"This is peak cringe. Congrats, you've outdone yourself.",,,,contrived-a2,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-33,"Every time I think it can't get worse, you prove me wrong.",,,,contrived-a2,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-34,"Honestly, just stop. Your point is bs and everyone knows it. ",,,,contrived-a2,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-35,Hmm interesting take. Not sure I fully agree but I'd like to understand your perspective better.,,,,contrived-a2,0,0,0,0,1,0,0,0,1,0,0.4,0,0,0,,0,0,0,0
+man-36,"I see where you're coming from, but have you considered this alternative? Might be worth exploring",,,,contrived-a2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-37,"I understand your position, though I lean towards a different conclusion. Let's keep the dialogue open.",,,,contrived-a2,0,0,0,0,1,0,0,0,1,0,0.4,0,0,0,,0,0,0,0
+man-38,Your perspective is quite unique to me. I would love to dive deeper into why you feel this way.,,,,contrived-a2,1,0,1,0,1,0,0,0,1,0,0.8,0,1,0,,0,0,0,1
+man-39,"I appreciate the civility of this discussion. Even though we may not agree, it's great that we can share and consider different viewpoints.",,,,contrived-a2,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-40,Just wanna give a shoutout to this dope community for always having my back.,,,,contrived-a3,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-41,Your messages really made my day,,,,contrived-a3,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-42,Amazing work! Love the effort ,,,,contrived-a3,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-43,Grateful for the little things in life,,,,contrived-a3,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-44,Y'all are my ride-or-die crew.,,,,contrived-a3,1,0,1,0,1,0,0,0,1,0,0.8,0,1,0,,0,0,0,1
+man-45,Why do some peeps have to be so boujee? It's hella irritating.,,,,contrived-a3,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-46,I can't wrap my head around how selfish some folks can be. They're all about numero uno.,,,,contrived-a3,0,0,0,1,0,1,0,1,0,1,0,0.8,0,1,,0,0,1,0
+man-47,People who constantly spill tea behind others' backs need to grow up and learn some manners.,,,,contrived-a3,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-48,I'm sick of dealing with passive-aggressive vibes. Just say what's on your mind!,,,,contrived-a3,0,1,0,0,0,0,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-49,Some peeps need a reality check.,,,,contrived-a3,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-50,Stop trying to one-up everyone. It's not a competition.,,,,contrived-a3,0,1,0,0,0,1,0,0,0,1,0,0.6,0,1,,0,0,1,0
+man-51,Your constant need for attention is pathetic. Get over yourself.,,,,contrived-a3,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-52,Why are you always so quick to judge?,,,,contrived-a3,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-53,Stop stirring up drama wherever you go. It's exhausting.,,,,contrived-a3,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-54,Get some balls and grow up!,,,,contrived-a3,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-55,"Living my best life, one taco at a time",,,,contrived-a3,0,0,1,0,1,0,0,0,1,0,0.6,0,1,0,,0,0,0,1
+man-56,Manifesting dreams like a boss.,,,,contrived-a3,0,0,0,0,1,0,0,0,1,0,0.4,0,0,0,,0,0,0,0
+man-57,"Life's a rollercoaster, and I'm strapped in for the thrill",,,,contrived-a3,0,0,1,0,1,0,0,0,1,0,0.6,0,1,0,,0,0,0,1
+man-58,Your creativity is off the charts!,,,,contrived-a3,0,0,1,0,1,0,0,0,1,0,0.6,0,1,0,,0,0,0,1
+man-59,Keep dropping those nuggets of wisdom! Don't ever stop shining.,,,,contrived-a3,0,0,1,0,1,0,0,0,1,0,0.6,0,1,0,,0,0,0,1
+man-60,Incredibly grateful for your advice and support.,,,,contrived-a4,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-61,I didn't really look at it that way - your point has really helped me make more sense of it!,,,,contrived-a4,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-62,I don't think I've ever received advice as good as that!,,,,contrived-a4,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-63,"Thank you so much for taking the time to write this, it helped me a lot.",,,,contrived-a4,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-64,Beautiful response to a difficult situation.,,,,contrived-a4,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-65,not sure what you mean by this?,,,,contrived-a4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-66,Are you seriously telling me this like I don't already know?,,,,contrived-a4,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-67,i'm not reading all that,,,,contrived-a4,0,1,0,1,0,1,0,0,0,1,0,0.8,0,1,,0,0,1,0
+man-68,I'd rather eat glass than hear any more from you,,,,contrived-a4,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-69,that's completely unrelated to what i'm asking,,,,contrived-a4,0,1,0,0,0,0,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-70,TIL you don't need a brain to make a Reddit account.,,,,contrived-a4,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-71,"while I appreciate you responding, what you said is beyond stupid",,,,contrived-a4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,0,0,1,1
+man-72,"that's a ridiculous take, get your head checked",,,,contrived-a4,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-73,do you seriously think I even care about that? stop wasting my time,,,,contrived-a4,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-74,This made me want to hit my head against a brick wall.,,,,contrived-a4,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-75,"Not sure what you mean, could you rephrase that?",,,,contrived-a4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-76,now that's a good piece of advice!,,,,contrived-a4,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-77,Real advice? On Reddit? Who would've thought?,,,,contrived-a4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-78,"interesting take, but i don't think that would contribute positively to their situation",,,,contrived-a4,1,0,1,0,1,0,0,0,1,0,0.8,0,1,0,,0,0,0,1
+man-79,I don't see an issue with this,,,,contrived-a4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-80,I am thankful for your thoughtful adivce. It has opened my eyes to a more ethical prespective,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-81,Thank you for sharing your wise guidance,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-82,Your moral counsel is genuinely approcieated,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-83,Thank you for your moral advice,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-84,"your ethical insights are deeply appreciated, they will undoubtedly make me a better person ",,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-85,Thank you for sharing these principles. These will serve as a foundation for my moral growth,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-86,I'm truly thankful for your moral counsel. It has reinforced my commitment to doing the right thing.,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-87,"Your moral advice is a gift, and it will lead to more principled life",,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-88,Words of wisdom like these are invaluable,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-89,Thank you for imparting such virtuous guidance,,,,contrived-a5,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-90,"Oh great, another armchair expert here to give us more unsolicited advice",,,,contrived-a5,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-91,"Just what we needed, another know-it-all with their two cents. Thanks, but no thaks",,,,contrived-a5,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-92,"Here we go again, someone who thinks they have all the answers. Spare us.",,,,contrived-a5,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-93,"If i wanted more advice i'd ask for it, keep your opinion to your self",,,,contrived-a5,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-94,Just what the world needs another self-appointed guru came to enlighten us,,,,contrived-a5,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-95,More advice ? like we haven't heard more already,,,,contrived-a5,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-96,"Thanks, but i've had my fill of advice today",,,,contrived-a5,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-97,The last thing i need today is some another person telling me what to do,,,,contrived-a5,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-98,How about keep unsolicited advice to ourselves and move on with our lives.,,,,contrived-a5,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-99,"I am sure you mean well, but i am not exactly in the market for more advice right now.",,,,contrived-a5,0,0,1,0,1,0,0,0,0,1,0.4,0.2,0,0,,0,0,0,0
+man-100,"Hmmm. NTA. Though I don't think your mom is an AH.
+
+I think it's reasonable that right before a major surgery it can be hard to not only interview, but admit that you're going to be having a major surgery and recovery soon.
+
+But I do understand that your mom, who is supporting you, wants you to be as independent and employed as possible.
+
+Would a reasonable compromise be that every day you are actively looking for jobs, working on your resume, interviewing and working on skills to be better prepared for employment? And also target a date when you'll be employed again?
+
+I would say you need to get a job as soon as practical with your recovery and work on being financially independent, as it sounds like your home situation is stressful for both of you.",,,t3_15ac8c0,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-101,YTA but honestly I would have done the same thing,,,t3_14swhop,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-102,"NTA but…
+
+She might think you’re only friends with because of her looks and is therefore being used. Apologize and emphasize that while this may be the reason you first wanted to meet her, after getting to know her you like her for who she is. 
+
+Can we assume you don’t have feelings for her?",,,t3_sfzm8d,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-103,"NTA You already told her that jokes like that make you uncomfortable and she needs to stop if she was your friend she would've stopped 
+
+What you told her was personal to you and something that affected you deeply but she chose to keep making jokes about where on the other she's so offended by you calling her out and behaving in such a way that you remind her of a ""manipulative"" friend and she doesn't know if she can trust you anymore. What about her actions?? Is she not accountable for what she's doing? 
+
+She makes these jokes publicly and you have every right to be offended. Betty seems like a very bad friend and you shouldn't be around people who make jokes at your expense just to get a laugh in a group setting",,,t3_143ww6v,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-104,INFO: how does he have access to breakable stuff? Most people with/caring for babies babyproof their houses so this doesn’t happen.,,,t3_rixnfd,r/AITA comment,0,1,0,0,0,0,0,0,0,1,0,0.4,0,0,,0,0,0,0
+man-105,I wouldn’t say much since his job (labor with some office work) and mine (office) don’t leave much room to help each other out. However I have helped him out with paperwork from time to time since I have free time to do so.,,,t3_gcsnoh,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-106,So I shouldn't be upset over the double standard?,,,t3_163cwmm,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-107,"Get over yourself little boy, you are absolutely an arsehole. That boy is better off without you both and when you grow up you will understand why",,,t3_u22bea,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-108,"No water or shelter that they could see perhaps.
+
+It's not like you have any more idea than me.",,,t3_hnn98i,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-109,"NTA 
+
+It is her house, her rules &amp; she is grandma BUT the children should be taught to be respectful (especially to family members) and the can be taught there is more than 1 boss. They listen to both their dad &amp; mom right? 
+
+If she taught the kids that, maybe then you wouldn’t mind helping out and watching them for a quick run to the store. Until that happens, she’s the one who is babysitting and they aren’t your responsibility.",,,t3_ozxe15,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-110,"NTA
+I believe you that you raise your sister. 
+
+Your mother is working to feed you. But providing for you financially does not make her a good mother. It only means, she most likely left you home alone with your sister and had no time to care for the both of you. She is maybe having a job she hates and you are getting her anger when she is at home.
+
+Just a guess. I am sorry for your whole family. My parents also struggled financially &amp; mentally. The responsibilities switched because of this. I am the one giving relationship advices to my mother, help her to apply for jobs, helped my parents financially when I was older, I am the one cooking when I visit my mother/she visits me. My parents did their best to raise us. My father worked a lot. But he  screamed, insulted &amp; punished or ignored us when he was home. 
+
+My brother told me a few days ago, how his boss&amp;wife invited him and cooked for him. He was so happy, that they hugged him to say goodbye and it felt so good and he would wish our father would have ever done something like this. 
+
+So you aren't AH. Try your best to have good grades &amp; get a good job. We earned our pocket money with small jobs in the neighbor hood when we were ~14. You are robbed by parts of your childhood but some stuff you can still catch up as an adult. It also helped us a lot in our job life because since young age we were able to take over responsibility.
+
+I am so happy I have my brothers, we help each other a lot and we all have good jobs &amp; loving partners now.",,,t3_10m2qk1,r/AITA comment,1,0,0,0,1,0,0,0,1,0,0.6,0,1,0,,0,0,0,1
+man-111,Than NTA,,,t3_1382ubj,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-112,No chip or tattoo? NTA. I'm sure that little lad is happy to have a new loving family.,,,t3_yy548u,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-113,"Are you the person who is also Sarah? At least keep using the same account if so, so people can read the history of your DID posts and more importantly your replies.",,,t3_k8gq9p,r/AITA comment,0,1,0,1,0,0,0,1,0,1,0,0.8,0,1,,0,0,1,0
+man-114,"NTA.  You have this concept nailed.  Mommy does not want to cut the apron strings. She wants to keep her little boy around.  She does not want him to move out but is willing to have him move into a neighboring house.
+
+Honey, I am not sure that he is really ready to move away.  He still wants to go to Mommy's house to do his laundry and to work out?  Um, doesn't sound good.  Wait a while before you do this.  Don't commit until you get that uncomfy feeling to go away.",,,t3_vqw86i,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-115,"I’m not sure what your question means completely, but I am in therapy, and I try to occupy my time by doing art, reading, and watching tv.",,,t3_jm9yvb,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-116,"YTA you’ve got to manipulative women in your life and you’re acting like one of them is in the wrong and the other is in the right, both in the wrong and you are letting it happen.",,,t3_143jj2m,r/AITA comment,0,1,0,1,0,1,0,0,0,1,0,0.8,0,1,,0,0,1,0
+man-117,Wtf,,,t3_ytj88q,r/AITA comment,0,1,0,1,0,1,0,0,0,1,0,0.8,0,1,,0,0,1,0
+man-118,"For some reason his shoes are the exception, the rest of his hygiene is fine. Mom doesn't want to get involved in our fights, dad passed away.",,,t3_gth08o,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-119,For fuck sake can I log on without seeing this just once?,,,t3_jqkmve,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-120,"NTA what she did was hurtful and, whether she has a mental illness or not, if she cares about you she would feel sorry and should apologize. I wouldn’t feel bad about it",,,t3_kd6w5g,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-121,"She sounds so spoiled and entitled. What does she actually bring to the relationship?
+
+I'm surprised there's a couple of comments trying to justify her behaviour by saying something must have happened that she needs to talk about or some sort of mental health issue.
+
+Nothing; NOTHING - gives her the right to be ungrateful and mean to you. I don't want to be one of those ""Divorce - NOW!"" Redditors (I know you're not married), but OP, are you sure this is what you want?
+
+There are plenty of people out there for you that would appreciate you and your cooking so much more.
+
+Edit: NTA",,,t3_uyll2n,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-122,"NTA heartache/heartbreak hurt, no matter the age or duration of the relationship (including missed relationships) and you're allowed to feel that. You're allowed to feel any emotion. And your mom needs to realize that. You should definitely, definitely, definitely talk about you struggles and pain with other people (if you don't want people to judge your mom, ask them that before telling them, or see a therapist who won't have to interact with mom or be allowed to spread what she has done to other people. Bottling up your feelings and your experiences are really going to hurt you in the long run, it can be so damaging. Seeking therapy for yourself regardless might be helpful. But no, you should not be expected to be happy and upbeat all the time, every single day, especially when you've lost a friend and someone you were interested in romantically, that hurts and it's allowed to hurt.",,,t3_ub9fe3,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-123,A am a AAAAAQAAWwww,,,t3_uo7686,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-124,NTA - perfectly reasonable to ask again with additional measures to put their mind at rest. They might just say no again but it's not rude to ask.,,,t3_js9iiz,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-125,"NTA. Why can’t BIL keep it down when he come in at night? 
+
+Crazy how it only took me 3 paragraphs of reading to begin to understand how BIL found himself in his current situation.",,,t3_13td04r,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-126,"This should be in the post, not in the comments. I heard you can pass the limit when you edit things in.
+
+I don’t think you’re an asshole but this reeks of immaturity. Maybe get new friends.",,,t3_11488b6,r/AITA comment,0,1,0,0,0,0,0,1,0,1,0,0.6,0,1,,0,0,1,0
+man-127,"I hear that - my parents are not people I’m allowed to fight w as theyve been abusive in the past, I have to walk on eggshells around them at all times + especially with things like this. They wont let me move out/have any control (to the point where I went to buy my own car and my father backed me into the corner screaming at me). 
+
+I’m stuck with them until I’m able to move out and go no-contact and my friends know this - which is why it’s hard to have one of my best friends blaming me for everything",,,t3_v6y9fy,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-128,That's what I would have done right after that zoom call. Calling grandpa. Just to be sure.,,,t3_mph3s2,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-129,NTA- You are definitely justified with your anger towards your sister. Her apathy could have killed you.,,,t3_nmabt4,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-130,No contact when you leave!,,,t3_14yekkx,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-131,"NTA but... I don't think it is kind to tell her she didn't think it through. Presumably she did think about it and concluded that you would prefer to see the concert alone than not see it at all.  She just came to a different conclusion than you. 
+
+Also, you now how a free ticket to a concert, you might as well go. What other plans do you have for that evening that do involve other people?  
+
+I too prefer to go to concerts with other people, it is more fun. However, if the choice is between going alone or not going to see music I like, I'd go. ""Not S nice as it could have been"" is still better than not going at all. 
+
+So not so much an asshole but more insensitive and a bit ungrateful.",,,t3_zktkd0,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-132,"The issue isn't whether you tell them the truth or not..... but that there is such homophobia in the family (which is probably very religious) that some members view being gay as a sin and that he ""repented"" for being gay and that ""God doesn't view him as gay.""  Your brother was gay and whether they like it or not.... was born that way.  As a straight male, I cannot turn off my attraction towards women and turn on an attraction towards men that I do not have.  Right now, feel free to do what you wish.  If you really feel like telling people the truth, go for it.  Personally, I would tell the truth.",,,t3_x4uitm,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-133,"&gt;she sounds like she is annoyed that you don’t have the same amount of time that she does to goof around with
+
+This is likely the majority of the issue. 
+
+NTA",,,t3_oyevve,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-134,"NTA, you are allowed to tell your story. I cant imagine how shoplifting as a teen would be relevant in this context, people make silly mistakes when they are young. The family member sounds bitter and cruel.",,,t3_ifylr0,r/AITA comment,0,1,0,0,0,1,0,0,0,1,0,0.6,0,1,,0,0,1,0
+man-135,"So every time my mom dressed me up as a kid for Xmas dinner, and my grandmother said ""oh, my little boy looks so handsome,"" she was a pervert?
+
+There's no ""but still."" You're an idiot.",,,t3_xcimdn,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-136,"I dunno if I’d say your TA. I can definitely get why your curios about it, but at this point you haven’t spoken in so long why bother? Some friendships just come to an end. Even if you did reach out what do you expect to happen?",,,t3_15q4na7,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-137,Maybe ask your friend group about this.,,,t3_ken6r1,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-138,"I think all three of you are AHs for talking to each other that way...but hey, it may be how you communicate.",,,t3_111lry7,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-139,"YTA
+Omg how self righteous are you? This is none of your business. People say shit about their kids alllllll the time that doesn’t mean they hate them. 
+
+Stop projecting your issues onto your fiancée 
+This really was just a nice evening of hanging out until you hadddddd to make it a thing
+
+You sound exhausting tbh",,,t3_qy6gyx,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-140,"Wouldn’t the wedding slots be taken up by older family members that would not go to the stag/hen parties?  In any event, I don’t think this would be worth hurting your friendship with them over, unless you’ve been wanting to end it anyway.  I really hope this is not the new normal.  Honestly, if it were me, I’d have waited until restrictions were over.",,,t3_ode71y,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-141,"NAH  It's not unusual to have to try a couple different therapists before finding one who clicks with you. And it's actually kinda weird for you to see the same one your mom did (unless it's a small town, with few options). 
+
+Unless your mom is completely unreasonable, you can say to her, ""He seems like a great guy, and I'm real glad he helped you, but his style isn't meshing with me. I'd like to try a different therapist.""",,,t3_r264u6,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-142,NTA- if she really was afraid then she wouldn’t have gone. She sounds attention seeking and exhausting.,,,t3_wpdge7,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-143,"NTA.
+
+So far, from what you told... There are no redeeming qualities to this man and no reason why he should be forgiven.
+I am sorry about what you had to go through, and I am glad that at least you cared enough about your brother to not want him to be exposed to inappropriate content.
+
+I hope your mother has divorced this man, and if she didn't, that she will soon.",,,t3_va2rfd,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-144,"YTA. It's barely been a year since you received the item. It's one thing to pass something on because you know someone else would appreciate it more than you do, but a completely other thing for you to pass on something while it could still get back to the person who gave it to you (AND that person would obviously not be okay with you passing it on.) 
+
+I know you were intending on giving her something else, but giving her a regift that she, or someone close, would immediately recognize just makes you look cheap unfortunately.
+
+Also, in general you seem to need to relax. This isn't something under your control and you need to stop trying to control the situation. What you asked for in previous posts: inappropriate and controlling, and you've been told so. Interrupting class is highly inappropriate and controlling. The words you say you used don't even seem apologetic at all; you're just embarrassing the person you would like to call a friend at this point.
+
+You need to stop. You cannot have her forgiveness, even if she's willing to give it to you, which after the scene you made in front of your class, on your time alone. You made yourself look tacky, she didn't take it well, and then you made it into her fault for whatever reason.",,,t3_gjo8rw,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-145,NTA. I understand her desire to discuss Mike's presentation in private but at that moment she should not have blown up at you in front of your kid- she should have come by and said the same thing in support and then addressed you privately about any concerns. Her reaction was unnecessary and not fair.,,,t3_12jxi47,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-146,NTA for letting her suffer through a hangover. YTA for cutting her off from her phone and social media for life. that’s a bit extreme in response to a typical teenage bad decision.,,,t3_lz5e18,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-147,"NTA, having seen the deviation of an uncontrolled fire can do, she needs to understand the possible consequences of poor fire choices. 
+
+A simple campfire can easily burn thousands to tens of thousands of acres, and countless homes, all because someone chose to light a fire in a burn ban. 
+
+She was very, ***VERY*** lucky and needs to get that.",,,t3_13n3rdj,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-148,Before doing this I would run this whole thing by the therapist. This poor child is caught between two people who hate each other and while intentional or not are putting her in the middle. I would be very careful. I am going to say NTA as you are giving mom the chance to do it but I think this is a very toxic environment for everyone involved.,,,t3_w71yq5,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-149,NTA - hes being a baby,,,t3_is0wlo,r/AITA comment,0,1,0,0,0,1,0,1,0,1,0,0.8,0,1,,0,0,1,0
+man-150,"INFO when you say hyping us all up for partying all night, could it be perceived that you were encouraging people to drink more than they were wanting to? Because honestly it sounds like someone was trying to get you to back off and did so in an admittedly insensitive way.",,,t3_18dinbk,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-151,"oh, and you deserve an apology and the truth from your husband. He's being kind of a butt.",,,t3_so1xfp,r/AITA comment,0,1,0,0,0,1,0,1,0,1,0,0.8,0,1,,0,0,1,0
+man-152,"OP wants to control her boyfriend's reaction at her perceived slight to a conversation she shouldn't have been listening into regarding his work.  I went with  YTA because the  relationship between her boyfriend and his boss has very little to do with her feelings, even if she's right that the boss is a conniving narcissist.
+
+Side note: I think the boss might be right about someone who has to have a fall risk band on her arm because she keeps trying to walk on her broken toe.",,,t3_158cksh,r/AITA comment,0,1,0,1,1,0,0,1,0,1,0.2,0.8,0,1,,0,0,1,0
+man-153,For some people normal school is incredibly easy,,,t3_16wqejv,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-154,"NTA. You choose how to pronounce and even use your name.
+
+This is obviously not quite the same, but hear me out. I'm Icelandic and have a very long and complicated name (in international groups on social media where I go by my actual name I've been clocked as an Icelander by name alone).
+I usually go by a nickname I got as a baby, which is obviously a lot shorter, but it's still hard to pronounce by people who aren't Icelandic or have difficulties with R. There's an English version of it, so I go by that to people who aren't Icelandic or have difficulties with it (f.ex. exchange students at my university).
+That's my choice; it's easier for them (I'm fine with any pronunciation of my name, but many find it very difficult) and it really helps when communicating on the Internet because most don't have easy access to the Icelandic letters in my name. It's convenient for everyone and makes things simpler, plus I get brownie points for being accommodating 😉
+
+If pronouncing your name differently (or changing it) is easier for you and/or others, I say you go for it! No one can make that decision but you.",,,t3_krdy2t,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-155,Slight YTA. You're the asshole because you're knowingly making your sister and your mom late on purpose. Your teachers are trying to help you out. Let them help you.,,,t3_ynyb5y,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-156,"I guess that's fair, it's just that some of them seem to kind of disregard how I felt whenever I discussed other events that I didn't particularly like. They would say things like ""I'm sure that's not what happened completely"" or ""You are probably overthinking things"". It's to the point where friends who have known me for a while tend to say the second one alot specifically. While those other events are not as bad as this one, I worry that they are going to treat it the same way if I just nicely tell them to stop.",,,t3_zn4vv3,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-157,"NTA.
+
+You don‘t have to consult him planning your precious free time. You had plans without him, they got cancelled, you made new plans without him. I don‘t know how he came to the conclusion that both of you had plans together now. You forgot to tell him about your plans (this just happens) aaaand you apologized. Not much more to do if you ask me. 
+
+Sure, you can invite him to go clubbing with you and your friend so he doesn‘t feel left alone. That‘s what I would do in this situation (and if I were more of a clubbing person). 
+
+Maybe you want to talk about it and explain the situation once more in a calm way and work from there.",,,t3_qbxwh6,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-158,"ESH everyone is acting like a child. Like it has already been suggested, take a vote.",,,t3_w1z2dq,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-159,NTA.  Your happiness should not be seen as the cause of her sadness. Any effort to link your fertility with her infertility is unfortunate and unfair to you.,,,t3_pqccyg,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-160,"ESH. You're not going to change Katie. But you should definitely be talking with your mom about the unfairness of her system. Maybe good behavior peer pressure works with her students, but it's obviously not working for your family.",,,t3_vibvqj,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-161,"NTA 
+I would've done the same thing in your situation. I don't know the laws where you are but where I am it's illegal to have your dog off leash unless it's in a designated area like a dog park.",,,t3_hhtofh,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-162,"Wait, wait, wait. You said it was only a few days and tonight was the last night. He went out to ""have a few with the boys"" tonight. Why are you saying now that the trip is another week long? After the work thing did you guys book a vacation that was attached?  I am failing to really understand.",,,t3_17h9i7u,r/AITA comment,0,1,0,1,0,0,0,1,0,1,0,0.8,0,1,,0,0,1,0
+man-163,This. She watched the dog while her ex ‘worked late’ with his coworker boyfriend. She was ostensibly the dog sitter while they dated.,,,t3_uv49ao,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-164,NTA you saved your friend a lot of future pain and drama. That man is a horrible human being. You did the right thing. She'll thank you later in life.,,,t3_vi4jsn,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-165,"NTA, but not talking to her is not the answer.  You should definitely talk to her and find out why she felt the need to report what you said to your advisor.  
+
+You'll never get any resolution to this otherwise.",,,t3_jv8r4e,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-166,"Totally agree with this.  He is your parent, not your warden.  His job while you are a minor is to help you learn and grow, to facilitate experiences that can help you build a solid foundation for next steps in adulthood.  Activities like theatre have many benefits, whether social (meeting and interacting with all types of people), personal (gaining confidence, learning about yourself), or academic (activities look good on college applications, if that’s a path you’d like to take).  
+
+Demanding that you drop activities just because he doesn’t want to deal with time conflicts is selfish on his part.  Maybe try talking to your mom about it?
+
+You are in the right here.  NTA",,,t3_17d1hfq,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-167,"I would say so, you can't expect someone to be able to change thought process at the whim of a request. I call girls, guys, babies, everyone dude for example. If a trans M-&gt;F got upset with me calling them dude I wouldn't feel bad because that's just how I talk.",,,t3_yq0dbt,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-168,Pretty much haha,,,t3_i5lth4,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-169,"Like I said,if he's bi,then he's not the asshole here. But as long as we don't know his motives for dating this girl,I'm going to reserve my judgement.",,,t3_rsfd8h,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-170,The truth is better than what she’s probably imagining.,,,t3_qwdp2o,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-171,Honestly JJ’s frequently out in the living room with them. He was friends with Josh before he moved in. He’d prefer Darren gone and Josh stayed but they both gotta go.,,,t3_13ef3iq,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-172,That sounds like a very unhealthy relationship with food. Kids should be taught about listening to their bodies and eating when hungry. Not eating on a schedule or worrying about being “fat or skinny”. YTA please look into some ways to improve your approach to eating.,,,t3_11v1xhk,r/AITA comment,0,1,0,0,0,1,0,0,0,1,0,0.6,0,1,,0,0,1,0
+man-173,You're friend is an asshole,,,t3_sw1liy,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-174,"honestly i am really frustrated not just with my brother but i’ve recently started working and my parents have been harassing me about getting my drivers license which i really don’t want to do because i have, undiagnosed because my parents don’t believe me when i tried to talk to them, anxiety. also i’ve never really been a good student and senior year so far has been really stressful for me. i know i’m becoming becoming an adult and i need to be able to get my shit together. i guess the stress over the years has made me lash out at my brother especially recently. i don’t know where i’m going with this so i’ll just end it here thank you for the feedback",,,t3_jtsk8n,r/AITA comment,1,0,1,0,0,1,1,0,1,0,0.8,0.2,1,0,,0,0,0,1
+man-175,"NTA. I don’t label myself as either party because I don’t 100% agree/believe in either side. What I do believe in(strongly) are basic human rights for all. I would question my friendship with this person, it seems your core beliefs may no longer align. I lose respect for people who can’t understand how and why our entire country is so broken and care more about being right or appearing smarter than the other side. Blaming poor people for being poor would be a big red flag for me too. Lastly, you’re a human being, not a statistic for her makeshift “social experiment”. You deserve better.",,,t3_iohckv,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-176,No he chewed me out,,,t3_jpjucs,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-177,"I don't really get a lot of this story apart from I really would have liked to see some paragraphs that bring a little bit of order into this situation so you're dad died - for which I give you my condolences - and then the family experienced some stress and then your brother left school but you didn't and you make it sound like it was somehow unfair although you don't explain why you couldn't leave your school as well  although you'll have a driving licence soon and your brother really liked art school and I still don't see how the schooling situation is relevant to all of this and the one thing that really caused some stir is that you put stuff on your brother's bed which he isn't using any more but somehow he still feels that this is his place and you shouldn't be using it and maybe you should sit down with him and discuss the room situation so that you may find an agreement whether he actually now lives in your mother's room or whether he considers your room still the room of both siblings and maybe you can find another place where you can put your things as it looks like he's no longer using the room as much as you do.
+
+INFO: why do you think you are a burden to you mother?",,,t3_13fzo6r,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-178,"NTA you’ll just have to accept that this is the way they are with you unfortunately, you’re not going to change them. What you can do is stop contributing on your end and being your mother’s helper. It seems to be understandably increasing your feelings of resentment so don’t do it. It’s not like they can retaliate and treat you poorly…",,,t3_184r1z0,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-179,Nta  she's a rude ah,,,t3_18iznz8,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-180,"There is nothing in court stating either does. In my state it is a mother state though. BUT I agree he should primarily live with dad, but I still need to be on there",,,t3_15xjcqg,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-181,NTA. Friendship doesn't mean you have to abandon your own moral code.,,,t3_k3bhjs,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-182,"It’s okay to ask him, but do it very politely.  Don’t demand.  You never know how attached people are to their pets.",,,t3_13ncbfy,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-183,"Yep if she feels well enough to get out of the car and scream at people and stomp around like a crazy person then she doesn't really need it.
+
+This is ridiculous. NTA",,,t3_14ete60,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-184,"NTA she was a friend, but friends come and go and that’s ok. When she needed you, you tried again, but it didn’t work out. It’s ok to move on, regardless of the state of her health. And if it so happens, it’s ok to try again. Friendship doesn’t come with a rule book except to not purposefully hurt the other person.",,,t3_15k1w60,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-185,Question- is he above you in your workplace hierarchy?,,,t3_zpkzuz,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-186,It really doesn't help much.,,,t3_gtdg7j,r/AITA comment,0,1,0,1,0,0,0,1,0,1,0,0.8,0,1,,0,0,1,0
+man-187,Love my acc bitchhhh,,,t3_t6x1fm,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-188,"NTA... Like what even? Why is this such a big deal??? Your parents should love you for who you are, not how you look? And it's your body your choice, which they should be encouraging and supportive of you trying things to figure out who you wanna be and what you like. Fellow curl head here! I hate straightening my hair. I did it for a few years because it was cut shorter than I liked and I wanted it to look longer, and it was awful honestly, but worth it to me at the time. After that, I straighten my hair once in a great while, like maybe 1-2 times every few years, and I only do it because I feel like it. You and your parents should love your hair, curls and all, and they need to be less petty, ESPECIALLY cuz they think your (I'm sure beautiful!) Hair will ""ruin their picture""
+I just... I'm baffled!",,,t3_jlnwge,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-189,"NTA I don't know what's going on with your best friend and her girlfriend, but you didn't seem to do anything too crazy.",,,t3_14gpfpp,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-190,NTA in any way shape or form. you have done nothing wrong. some people are really toxic and what you said to them pales in comparison to what they have said to you,,,t3_ulgxau,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-191,"NTA
+
+You didn’t open the race card and it was a trap by linda. You should have known how to avoid it. I’d say cut ties with both. 
+
+Looks aint it all. And Mel made her own decisions in life, let her bathe in it.
+
+Apparently mel was trying to hook you in and couldn’t handle the rejection so she said that you don’t want to raise her black son, when you don’t see yourself raising anyone’s son.
+
+Don’t let peer pressure and other’s opinions dictate you or influence your actions or opinions. I hope you ain’t racist, and just didn’t know how to save yourself.
+
+Stay strong king.",,,t3_16eh7mx,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-192,Do you even have to ask? YTA,,,t3_vbvnk7,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-193,Agree with this!,,,t3_102uwnx,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-194,"I hate these ones... If it was the other way around and you were out late with a guy friend and your husband was trying to set a curfew for you everyone would be saying he is controlling. But since you are a woman and it is for ""your anxiety"" it is acceptable. 
+
+Having said that, I am old fashioned and would not be having long hangouts with another woman while I was in a relationship..... so ESH? Not sure on this one.",,,t3_156ac4o,r/AITA comment,0,1,0,0,0,1,0,1,0,1,0,0.8,0,1,,0,0,1,0
+man-195,"NTA.
+
+You need to break up with this woman. Sounds like she is an emotional leech with nothing to offer in return. And that might not be her fault due to her mental health issues - but you need  to date someone YOU can lean on too. This isn't that person.",,,t3_ikuvcm,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-196,"I'm not criticising your writing - the story itself sounds implausible. If true, YTA.",,,t3_un9k2y,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-197,Fair. I've only been testing my blood for about 2 months so I'm still new to this. I was told my blood sugar is supposed to be like 110 so my last reading was worrying to me and I felt faint and nauseous,,,t3_wom173,r/AITA comment,0,0,0,0,1,0,0,0,0,0,0.2,0,0,0,,0,0,0,0
+man-198,Nah,,,t3_jc6skx,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-199,"If they didn't have enough money they should have asked beforehand if you could pay &amp; they'd pay you back.  Or, and here's an idea, they could have not joined you.",,,t3_vfq7zz,r/AITA comment,0,0,0,0,0,1,0,0,0,0,0,0.2,0,0,,0,0,0,0
+man-200,"INFO : You said you were misinformed, so does that mean you learned who really went into your room and took and used your weed jar?",,,t3_ssrgy8,r/AITA comment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-201,"YTA. Those people still have an illness that impacts their daily life, and you have NO excuse to downplay what they feel. Yes, Crohn's might be more severe, BUT THEY STILL HAVE A LIFE ALTERING ILLNESS. Now everyone who reads that and believes you will think their illness is invalidated and they'll feel like shit. Good job, you're a total, inconsiderate asshole.",,,t3_oh45pk,r/AITA comment,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-202,Thank you so much for this very thoughtful response. I really appreciate it.,,t3_jd4y93,g95kmjn,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-203,"Thanks man, I’ve been tryna reduce the amount of times I crack my joints and have gotten a lot better but still do crack a lot.",,t3_hyexgm,fzcazgr,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-204,"Thank you for your honest answer, I am aware I mafe myself a mistake, as this post was to know if the sanction was proportionate to my mistake. Once again thanks for telling me what you think of the situation",,t3_14r7r7r,jqqtle3,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-205,Thank you. It's been drilled into me to look after her. And it hurts me that she's cut him off. I've still posted his happy days but I don't send her updates so mostly respected her wishes but I don't see why I should hurt myself to help her,,t3_ynqe7g,iva6hp1,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-206,Your comment makes so much sense. Thank you.,,t3_iixc9y,g3a7393,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-207,"I understand your point, I shouldn’t have called her a dumbass, and I just needed to vent and see who was in the wrong. Thanks for helping me see we were both at fault. :)",,t3_pmuvvh,hckt7xr,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-208,"Yes, I think you're articulating it very well.  It's like she thought that, because I have dealt with anxiety forever, that I WANTED something like this to  happen so that they could feel as bad as I do.  That's absolutely not the case.  I was hoping that some of the strategies that I'd learnt over the years might help her to cope.  Thanks for putting it into words for me!",,t3_gjxjxd,fqnvfc7,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-209,Aww thank you so much this made me feel a lot better. Christmas is my favorite holiday and I want everyone to feel special so even though as much as she hurt me it didn't feel right not getting her something .,,t3_zno07i,j0irzid,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-210,"&gt;ported him to his employer? I’d hate to get anyone fired or in serious trouble especially given the current economic climate and the fact he may not have known what he did was wrong, but I also worry that he may do it to some
+
+OMG SERIOUSLY THANK YOU.  I read this and I was shocked at how many people are saying NTA.
+
+It's not like he's a person of authority, like a cop hitting on someone where there might be a concern of someone abusing their authority.
+
+It's a freakin dude at work who hit on someone, got rejected, and was polite about it afterwards.  ""It was worth a try"" he said and he moved on.    He didn't stalk her, pin her up against something, touch her without permission, etc.  It was in a friggin public parking lot while he was collecting carts.
+
+&amp;#x200B;
+
+Wow some people are really pretentious and holier than thou.  Heaven forbid a young man in his 20's (respectfully) trying to pick up a young lady close to his age.  What world are we living in where this is unusual?",,t3_gnaifo,fr9iwj4,,1,1,1,0,1,0,1,0,1,0,1,0.2,1,0,,0,0,0,1
+man-211,"Giving directions with my car might work better, thank you!",,t3_kwx8is,gj6wtjh,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-212,"Thanks for the question, we do pay by the year, and as with many things my parents struck a fair balance in supporting my tuition. 
+Much of my tuition is covered by merit scholarships, the rest is covered by both my parents and myself. They’ve made incredible sacrifices to contribute a LOT to my education, and I’ve contributed everything I’ve earned to cover my part and (like I said) went into some debt when my life savings were drained.",,t3_hzq92b,fzku9h1,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-213,Thankfully we got home to our country with my dad before the pandemic so we have had a break from her and went on a few trips and made memories. But My mom doesn't want to confront Eve and hurt her feelings.,,t3_gq5pkm,frqve1u,,0,0,0,0,0,0,1,0,0,0,0.2,0,0,0,,0,0,0,0
+man-214,Thank you for your input <3,,t3_14i7spa,jpfariw,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-215,Thank you,,t3_1811f25,kad6le4,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-216,"Thanks...it’s funny too that his reasoning for cheating before was because his gf at the time was terrible to him, which is true, and his current gf was very sweet and empathetic and attentive to him. And because of those two things he was lead to cheat. But then why do you still think about it? It doesn’t make sense to me...",,t3_kmptvy,ghg1cr6,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-217,"On the day of his birthday, I did tell him I was sorry I didn't have one and that I did plan on getting him one. I don't have my license, as I have amaxophobia (fear of driving) so that puts me in a constant bind. And he only made it ""clear"" after the fact. Thank you for your response, and thanks for the good luck, much appreciated.",,t3_uz5gpw,ia8ch87,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-218,"thank you for responding and the kind words! honestly my answer is probably because my hair texture is so different compared to hers so i think that's why she makes those comments about my hair. i hope that isn't why but according to the way she talks about my hair, it feels that's the only reason i can think of:/",,t3_seh5xx,huje6jo,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-219,"Thank you for the reply. I had to edit out the extent of his messiness due to word count, but I have tried his own laundry bin. He just threw his clothes on the floor by his bed with it. The bin ended up being more clutter in a room with clothes on the floor. I also hung a shelf with hooks for his wallet, belt, keys etc on his side of the room for emptying his pocket but he does not use it. So my option is let clothes pile up on the floor or at the very least pick them up for him. Today I chose to wash them with mine and this new kicked off.",,t3_15c46k1,jtu54tn,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-220,THANK YOU! Completely agree and I don’t know she just considers it inappropriate. Yet she’s letting me wear it to a school dance? Like what the hell,,t3_t31lfp,hyppc7v,,1,1,1,0,1,0,1,0,1,1,1,0.4,1,0,,0,0,0,1
+man-221,"She shouldn't ""be happy"" that he tried if he was only willing to put in 3 min of effort and expect praise and thanks. All it takes is a little effort. My husband does the same thing, but since I have a muscle disorder, I really need my back and neck worked on. The 3 min massage is more of a halfhearted ""I don't want to do this and I don't like doing it so appreciate what I give"".
+
+If you want to get better, just do some reading or watch some YouTube videos.",,t3_zt28h6,j1bd0xi,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-222,"This answer is amazing and super helpful, thank you. This does a great job of balancing my kids privacy while also respecting my rules and gives us a really good groundwork for moving forward.
+
+Unfortunately the fight around smoking is one we need to have. 13m has pretty bad anxiety and while a lot of people may not agree with this THC is pretty terrible for controlling chronic anxiety.",,t3_zke007,izzccbs,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-223,Thank you!,,t3_10eummt,j4tccsp,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-224,"My kids were 16 and 14 when we when to my nieces wedding in early 2020 (pre-pandemic). No one needed to babysit them. In fact, my younger one and a couple similar aged cousin were the unofficial ""babysitters"" of the young kids. They organized a bunch of games to keep the younger ones entertained and my niece was very appreciatative. She gave my son a special shout out in her thank you card. 
+
+If a 16 and 14 year old need babysitting at a wedding, something is very wrong.",,t3_nwxifp,h1cefgu,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-225,I actually really like your insight to this. Thank you,,t3_yxm903,iwqbqjj,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-226,"That's a smart idea, thank you!",,t3_jm9abi,gaunmue,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-227,"this made me feel better, thank you",,t3_13tiqdd,jlvxsbx,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-228,"Thank you for taking her loss into consideration here. Grief fucks people up, and judging from the tone of this post and the title (not that that's much to go on, but still) it seems like OP isn't being very supportive in what could arguably be one of the biggest losses a person can go through (assuming that she had a close relationship with her mom). Like, reading that title immediately made me think ""asshole,"" even if he's being logical about finances.
+
+Generally, calling people's decisions ""stupid"" isn't going to help your case.",,t3_4yeqvf,d6nn367,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-229,Thank u for that POV. I didnt think about it like that. :),,t3_15lhv2g,jvap609,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-230,"Thanks. I'm not going to go back on my decision, I'm just feeling shitty how I told him - I kind of let years of frustration burst out in one go and I could've used more tact",,t3_vs4dfk,iez2nqz,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-231,"Gee thanks. Where did I say I’m not happy with the way I look? As I said, I am trying to lose weight but that doesn’t mean I’m unhappy with how I look. I’d just gotten to a healthy place of not hating my body so that my weightloss isn’t coming from a toxic place of hatred for myself and his comments reversed all of that, as has yours. So thank you so much.",,t3_nt36j1,h0pzt47,,0,1,0,1,0,1,0,1,0,1,0,1,0,1,,0,0,1,0
+man-232,Plz source free patches? Still costs money where I live in the USA thank you!,,t3_ysw9zv,iw1cv5p,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-233,"I live near MK, its not really hot but the breeze is constant and very warm. Tbh, I rarely drink anything and if I do it’s usually lemonade or milk. I’ve gone and gotten myself a glass of water now, thanks for the reminder!",,t3_wg0pyh,iiwzvbk,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-234,Thank you for saying that last part -- honestly that made me cry a little bit.,,t3_gl7ykv,fqvvr2l,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-235,"Okay thanks, I will look into that.",,t3_jj0803,gab39xg,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-236,"I was going to post something similar, thank your for pointing this out. 
+
+I used to work with special needs adults, at a weekly activity kind of thing (omitting the details for privacy reasons). The only parents who attended this, were then only parents who were still responsible for the care of their child. They were in their 70s, and had looked after their severely intellectually disabled (and aggressive) child their whole lives, with no help. This was a small town, with lots of the typical gossiping, and I remember people saying that it was because they were ashamed they’d chosen to take on full responsibility of the care for their child. I’m not sure if that’s true or not (from that I saw, I’d say it was more about love, and acceptance that they were the parents of this child, who essentially never grew past the toddler level of care and attention needed). Regardless, I have to respect the dedication to the parent role. Their child (who I should clarify was in their 50s, not an actual child), was delightful, but also extremely challenging to be around. I always left the sessions thinking about how exhausted the parents must have been.",,t3_tp46pn,i29qt8q,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-237,"I have a few family members that thankfully have been really great, but yeah this opened my eyes of how afraid everyone is of my dad which has created such a toxic environment.",,t3_gdqv4m,fpj1l58,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-238,Thank you! I’ll be sure to address both those points with my teachers!,,t3_rxhmlr,hri8vj8,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-239,"Thank you for saying it. It honestly blows my mind that OP is being all ""they'll just sleep in the room"" but is also being all ""I don't think she'll be safe in her own room"" at the same time. I swear some parents actually need educating about these things from their children rather than the other way around. NTA",,t3_12oss63,jglp54r,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-240,Thank you for your well wishes,,t3_11mgui0,jbhs47d,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-241,Thank you :D,,t3_14pdwg0,jqhhiim,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-242,Thank you for letting me know,,t3_i0r6s8,fzrjpsn,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-243,"And actually, the mother-racist-daughter-racist combo should be thanking OP … these same screen shots in five to seven years would ensure no college acceptances, and in ten years, no job at any company worth working for. At age nine maybe she can still take in the lesson that racism is ugly. 
+
+Side note for your daughter: bullying can come from jealousy. Your daughter’s beauty is likely magnified not only by the mixing of two sets of genetics but by her personality. Obviously personality is more important, but it can’t hurt to emphasize that “blasian” features are widely considered extra gorgeous.",,t3_16c52uo,jzhksjb,,0,0,0,0,0,0,0,0,1,0,0.2,0,0,0,,0,0,0,0
+man-244,"Eh if Cassie didn't suck this would be totally fine. My husband and I baked a crazy 4 tier cake for a friends wedding and it was fun! We've also done stuff like hem pants/dresses, help setup venues, stepped in to help cater cocktail hour (granted that was when the kitchen had smoke pouring out of it). But our friends don't suck and hence there was nothing but thanks at the end of it.",,t3_lq34rd,gof4fhx,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-245,Thanks M8,,t3_183ivuj,kaovu1u,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-246,"I really appreciate that thank you, I don’t really like my counselors much but been wanting to go to therapy for a bit, but haven’t had the money, I tried signing up for better help but they tried to charge me 95 dollars weekly. I really wish I didn’t react the way that I did but I just lost it when she said that, and been trying to work on my temper when it comes to stuff like that",,t3_wuknp8,iladp3d,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-247,"I agree with this, and not because I think OP is wrong for wanting their partner to take safety classes (they’re not wrong). I just think presenting it as a gift is not the way to go. 
+
+OP I appreciate your thought of getting the classes as a gift to try to assuage your partner’s ego, but I don’t see this coming off any other way than passive aggressive. He doesn’t sound like he’s being realistic about gun safety or his own capabilities, and as you said he thinks he’s got everything down so why would he need classes (from his POV)?
+
+It’s not that I’m all that concerned about preserving his ego, it’s that I think gifting the classes may create more problems than solutions. What will you do if he simply doesn’t go? You’ll be back to square one with needing him to learn gun safety, and if you insist upon it then, I can almost guarantee the discussion will be derailed into “you bought me a gift that wasn’t actually a gift.”
+
+Honestly in this scenario I think being up front about what you need him to do is absolutely warranted. He doesn’t need to be gently encouraged to take classes, he needs to understand that he is NOT a safe gun handler and if he’s going to own guns around you (or at all, tbh) he MUST learn proper handling and safety. The moment where he accidentally pointed it towards you was fraught with both of you freaking out, but now you can approach him calmly and firmly and tell him that for your own safety (as well as his and everyone else’s) he must learn proper gun handling from an expert. And if he’s simply not at all willing to admit that he mishandled the gun in that scenario you described… well, I wouldn’t be comfortable living with him, I’ll say that.",,t3_z75baa,iy4usea,,0,0,0,0,0,0,1,0,0,0,0.2,0,0,0,,0,0,0,0
+man-248,"My Dad has terminal cancer.  
+
+I was planning on moving 300 miles away and move in with my partner. Instead, I moved in with my Dad.  My partner has been incredibly supportive of this.
+
+I hope that he still has a good few years left.  My partner understands that I don't want to miss a single second of time with my Dad.  
+
+Time is the most precious thing there is.
+
+Losing a parent is... there are no words.  My Dad is my rock, my foundation.  Seeing his health decline is terrifying.  I'm so thankful to have such an understanding partner.
+
+OP, your partner is facing her worst fears.  If you force her to stay she will likely never forgive you.
+
+NAH.",,t3_166ytcd,jyo708d,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0
+man-249,Agreed. Thank you,,t3_m0dd2m,gq79ykb,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-250,Fixed it! Thanks for pointing that out,,t3_i2f707,g04bg8q,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-251,"Hello, thank your for your comment. I apologize if this response is not in the right format I don't have experience on this platform.
+
+I want to sit down with Heather and explain the different options and let her choose.
+
+Mel feels guilty (and to be honest I do too) that this is even a question here because so much money has gone to Ava's family. When the girls were younger we tried very hard to ensure things were equal, and reflecting back this is obviously bad planning on our part.
+
+Mel wants to give Heather the money without explaining or exploring the options. This would significantly impact our lives now. Mel had mentioned the option about selling the land but now doesn't think we should and should still be able to give Heather the land and the down payment. To be frank, we just can't unless we make big sacrifices and changes in our plan going forward. That's what Mel thinks we should do.
+
+You are right this is our doing and we have significant regrets over the lack of planning. I guess we just have different ideas of how to move forward and this argument is getting very heavy.
+
+(For clarity, Mel is my wife)",,t3_yj6204,ium3l5y,,1,0,1,0,1,0,1,0,1,0,1,0,1,0,,0,0,0,1
+man-252,NTA,,,,,,,,,,,,,,,,,0,0,,0,0,,
+man-252,YTA,,,,,,,,,,,,,,,,,0,0,,0,0,,
+man-252,ESH,,,,,,,,,,,,,,,,,0,0,,0,0,,
+man-252,NAH,,,,,,,,,,,,,,,,,0,0,,0,0,,

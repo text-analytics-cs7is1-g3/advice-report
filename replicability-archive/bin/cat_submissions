@@ -1,0 +1,2 @@
+#!/bin/bash
+zstdcat "./data/AmItheAsshole_submissions.zst" $@
