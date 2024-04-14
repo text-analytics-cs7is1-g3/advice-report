@@ -1,0 +1,409 @@
+summary assignee,summary,relevance /5,quality rating /5,found by,title,first author,year,bibtex reference: <first-author>-<year>,bibtex entry,keywords,pdf url,other url
+tarun,,3.5,3.5,neimhin,“I'm Going Home”: Discharges Against Medical Advice,alfandre,2009,alfandre-2009,"@article{alfandre-2009,
+title = {“I'm Going Home”: Discharges Against Medical Advice},
+journal = {Mayo Clinic Proceedings},
+volume = {84},
+number = {3},
+pages = {255-260},
+year = {2009},
+issn = {0025-6196},
+doi = {https://doi.org/10.4065/84.3.255},
+url = {https://www.sciencedirect.com/science/article/pii/S0025619611611439},
+author = {David J. Alfandre},
+abstract = {Discharge against medical advice (AMA), in which a patient chooses to leave the hospital before the treating physician recommends discharge, continues to be a common and vexing problem. This article reviews the prevalence, costs, predictors, and potential interventions for this clinical problem. Between 1% and 2% of all medical admissions result in an AMA discharge. Predictors of AMA discharge, based primarily on retrospective cohort studies, tended to be younger age, Medicaid or no insurance, male sex, and current or a history of substance or alcohol abuse. Interventions to reduce the rate of AMA discharges have not been systematically studied. This article offers suggestions for interventions based on studies in other areas of clinical care as well as the psychiatric AMA discharge literature. Studies for this review were identified by searching the relevant MeSH heading (discharge) and key words (against medical advice, leave, elope, hospital, and self-discharge) in PubMed databases and selecting all English-language articles from 1970 through 2008 that included data on adult medical inpatients.}
+}",AMA hospital-discharge medical-advice,https://www-ncbi-nlm-nih-gov.elib.tcd.ie/pmc/articles/PMC2664598/pdf/mayoclinproc_84_3_008.pdf,https://www.sciencedirect.com/science/article/abs/pii/S0025619611611439
+aadesh,,,,neimhin,Examining the Discourse of Mental Illness in a Corpus of Online Advice-Seeking Messages,brookes,2016,brookes-2016,"@Inbook{brookes-2016,
+author=""Brookes, Gavin
+and Harvey, Kevin"",
+editor=""Pickering, Lucy
+and Friginal, Eric
+and Staples, Shelley"",
+title=""Examining the Discourse of Mental Illness in a Corpus of Online Advice-Seeking Messages"",
+bookTitle=""Talking at Work: Corpus-based Explorations of Workplace Discourse"",
+year=""2016"",
+publisher=""Palgrave Macmillan UK"",
+address=""London"",
+pages=""209--234"",
+abstract=""In recent years corpus linguistic tools have afforded language researchers and health practitioners a powerful method to learn about the linguistic character of health-related communication in a variety of contexts. This chapter charts recent developments in the burgeoning field of corpus-based health communication research and presents a series of studies which aptly illustrate the utility of corpus linguistic techniques for undertaking in-depth, quantitative and qualitative examinations of health-related language data. The overarching argument of this chapter is one in favour of the use of corpus linguistic techniques, which, we argue, are capable of providing revealing insights about how people conceptualize and discursively construct their subjective experiences and understandings of health and illness."",
+isbn=""978-1-137-49616-4"",
+doi=""10.1057/978-1-137-49616-4_9"",
+url=""https://doi.org/10.1057/978-1-137-49616-4_9""
+}
+",advice-seeking corpus mental-illness,http://ndl.ethernet.edu.et/bitstream/123456789/50188/1/121.Lucy%20Pickering.pdf#page=240,https://link.springer.com/chapter/10.1057/978-1-137-49616-4_9
+pranav,,3.5,3.5,pranav,Use of Sentiment Analysis for Capturing Patient Experience From Free-Text Comments Posted Online,greaves,2013,greaves-2013,"@article{greaves-2013,
+  title={Use of sentiment analysis for capturing patient experience from free-text comments posted online},
+  author={Greaves, Felix and Ramirez-Cano, Daniel and Millett, Christopher and Darzi, Ara and Donaldson, Liam and others},
+  journal={Journal of medical Internet research},
+  volume={15},
+  number={11},
+  pages={e2721},
+  year={2013},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}",Internet; patient experience; quality; machine learning,https://github.com/text-analytics-cs7is1-g3/literature/blob/main/greaves-2013-use-of-sentiment.pdf,https://www.jmir.org/2013/11/e239/PDF
+ben,"Proferes et al. (2021) conducted a thorough systematic overview of studies utilising data from Reddit. An analysis of the breakdown of disciplines, approaches, methods, and ethics are conducted.",4,4,neimhin,"Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics",proferes,2021,proferes-2021,"@article{proferes-2021,
+author = {Nicholas Proferes and Naiyan Jones and Sarah Gilbert and Casey Fiesler and Michael Zimmer},
+title ={Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics},
+
+journal = {Social Media + Society},
+volume = {7},
+number = {2},
+pages = {20563051211019004},
+year = {2021},
+doi = {10.1177/20563051211019004},
+
+URL = { 
+    
+        https://doi.org/10.1177/20563051211019004
+    
+    
+
+},
+eprint = { 
+    
+        https://doi.org/10.1177/20563051211019004
+    
+    
+
+}
+,
+    abstract = { This article offers a systematic analysis of 727 manuscripts that used Reddit as a data source, published between 2010 and 2020. Our analysis reveals the increasing growth in use of Reddit as a data source, the range of disciplines this research is occurring in, how researchers are getting access to Reddit data, the characteristics of the datasets researchers are using, the subreddits and topics being studied, the kinds of analysis and methods researchers are engaging in, and the emerging ethical questions of research in this space. We discuss how researchers need to consider the impact of Reddit’s algorithms, affordances, and generalizability of the scientific knowledge produced using Reddit data, as well as the potential ethical dimensions of research that draws data from subreddits with potentially sensitive populations. }
+}
+
+
+",reddit ethics corpora,https://github.com/text-analytics-cs7is1-g3/literature/blob/main/proferes-2021-proferes-et-al-2021-studying-reddit-a-systematic-overview-of-disciplines-approaches-methods-and-ethics.pdf,https://journals.sagepub.com/doi/full/10.1177/20563051211019004
+neimhin,"\cite{neviarouskaya-2010} developed a rule-based algorithm for recognizing attitude in terms of affect (negative and positive), judgement (negative and positive), and appreciation.
+The algorithm systematically composes the classifications of constituent sentence parts, such that entire sentences can be classified. Their theory of attitude and the corresponding algorithm are applicable at three levels.
+At the top level are just three classifications, positive, negative and neutral.
+At the mid level, positive and negative classifications are further subdivided into, affect, judgement, and appreciation.
+At the most fine-grained level affect is divided into interest, joy, and surprise (positive affect) and anger, disgust, fear, guilt, sadness, shame (negative affect).
+The algorithm accounts for negation (by several means), amplification of sentiment, neutralisation of sentiment etc.
+A corpus of human-annotated sentences is collected and compared to the results of the automated system.
+The automated system was found to have greater agreement with the human annotations than a baseline system that simply selected the most intense token annotation.
+\cite{neviarouskaya-2010} discuss some of the failures and failure modes of their system.
+The accuracy of the automated systems (at predicting human annotations) is highest at the top level of the classification hierarchy (positive, negative, neutral), and the accuracy decreases as we move to finer grained classifications.",4,3.5,neimhin,"Recognition of affect, judgment, and appreciation in text.",neviarouskaya,2010,neviarouskaya-2010,"@inproceedings{neviarouskaya-2010,
+  title={Recognition of affect, judgment, and appreciation in text},
+  author={Neviarouskaya, Alena and Prendinger, Helmut and Ishizuka, Mitsuru},
+  booktitle={Proceedings of the 23rd international conference on computational linguistics (Coling 2010)},
+  pages={806--814},
+  year={2010}
+}",affect recognition,https://aclanthology.org/C10-1091.pdf,
+pranav,,4,4,neimhin,How to use corpus linguistics in the study of health communication,atkins,2010,atkins-2010,"@incollection{atkins-2010,
+  title={How to use corpus linguistics in the study of health communication},
+  author={Atkins, Sarah and Harvey, Kevin},
+  booktitle={The Routledge handbook of corpus linguistics},
+  pages={605--619},
+  year={2010},
+  publisher={Routledge}
+}","health communication, corpus linguistics",https://github.com/text-analytics-cs7is1-g3/literature/blob/main/(Routledge%20Handbooks%20in%20Applied%20Linguistics)%20Anne%20O'Keeffe%2C%20Michael%20McCarthy%20-%20The%20Routledge%20Handbook%20of%20Corpus%20Linguistics%20(Routledge%20Handbooks%20in%20Applied%20Linguistics)-Routledge%20(2010).pdf,https://www.taylorfrancis.com/chapters/edit/10.4324/9780203856949-51/use-corpus-linguistics-study-health-communication-sarah-atkins-kevin-harvey
+tarun,,4,3.5,neimhin,Learning Word Vectors for Sentiment Analysis,maas,2011,maas-2011,"@inproceedings{maas-2011,
+  title={Learning word vectors for sentiment analysis},
+  author={Maas, Andrew and Daly, Raymond E and Pham, Peter T and Huang, Dan and Ng, Andrew Y and Potts, Christopher},
+  booktitle={Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies},
+  pages={142--150},
+  year={2011}
+}","word vectors, sentiment analysis",https://aclanthology.org/P11-1015.pdf,
+neimhin,"Miller (2020) reports a survey of 628 Reddit users. The questionnaire covered Internet usage, Reddit usage (especially in relation to self-disclosure on subreddits), and a set of psychological questions relating to connectedness, sociol support perception, life satisfaction, narcissism, and sensation seeking.
+
+The sharing of intimate information on Reddit's anonymous-feeling platform was found to be significantly correlated with the sensation seeking tendency, but there was no evidence of an association with narcissicism.
+
+The findings are interpreted as evidence that intimate self-disclosure on Reddit is motivated by feeling disconnected and alone.
+
+The research participants were approached with advertisements on Reddit, as well as with posts to related subreddits, e.g. `r/confessions`, `r/offmychest`.
+
+Miller (2020) suggests that ""[f]uture work should investigate whether engagement is driven by empathetic concern, or whether it is spurred by boredom and the tendency of confessions to have a high degree of shock value"", which is an interesting line of investigation in the context of spontaneous online advice-seeking. What drives engagement with advice-seeking posts, i.e. what drives Redditors to give advice?",2,4.5,neimhin,"Investigating Reddit Self-Disclosure and Confessions in Relation to Connectedness, Social Support, and Life Satisfaction",miller,2020,miller-2020,"@article{miller-2020,
+  title={Investigating Reddit self-disclosure and confessions in relation to connectedness, social support, and life satisfaction},
+  author={Miller, Brandon},
+  journal={The Journal of Social Media in Society},
+  volume={9},
+  number={1},
+  pages={39--62},
+  year={2020}
+}","reddit, self-disclosure, mental health, wellbeing",https://github.com/text-analytics-cs7is1-g3/literature/blob/main/miller-2020-self-disclosure-reddit.pdf,
+,,,,carl,The Schematic Structure of Computer Science Research Articles,posteguillo,1999,posteguillo-1999,"@article{posteguillo-1999,
+title = {The Schematic Structure of Computer Science Research Articles},
+journal = {English for Specific Purposes},
+volume = {18},
+number = {2},
+pages = {139-160},
+year = {1999},
+issn = {0889-4906},
+doi = {https://doi.org/10.1016/S0889-4906(98)00001-5},
+url = {https://www.sciencedirect.com/science/article/pii/S0889490698000015},
+author = {Santiago Posteguillo},
+abstract = {This paper presents a linguistic description of the schematic organisation of research articles in the field of computer science. Forty articles from three different academic journals in computing research have been analysed; the results indicate that the IMRD (introduction-methods-results-discussion) pattern cannot be applied to research articles in computer science systematically. Introductory and concluding sections, however, are used in more instances. It is the central part of these articles which seems to depart more from the IMRD pattern. Detailed analyses of the structure of introductions, results, and conclusions are included, and relevant comparisons with previous studies are drawn.}
+}","text schematics, computer science",https://github.com/text-analytics-cs7is1-g3/literature/blob/main/posteguillo-1999-schematic-structure-computer-science-articles1-s2.0-S0889490698000015-main.pdf,
+pranav,,3.5,4.5,neimhin,Mental Health Analysis in Social Media Posts: A Survey,garg,2023,garg-2023,"@article{garg-2023,
+  title={Mental health analysis in social media posts: a survey},
+  author={Garg, Muskan},
+  journal={Archives of Computational Methods in Engineering},
+  volume={30},
+  number={3},
+  pages={1819--1842},
+  year={2023},
+  publisher={Springer}
+}","mental health, social media, survey",https://github.com/text-analytics-cs7is1-g3/literature/blob/main/garg-2022-mental-health-social-media-survey-s11831-022-09863-z.pdf,https://link.springer.com/article/10.1007/s11831-022-09863-z
+neimhin,"The authors describe the process by which the LIWC2015 dictionaries and word-categorisations were developed. It involved a significant manual process with collaboration of several judges to create an initial dictionary. The dictionary was then analysed and ammended to fix ommissions or internal inconsistencies. The set of categories was chosen based on attributes commonly study in social, health, and personality psychology. The authors give an explanation as to why the internal consistency of linguistic-based psychometrics can be lower or have wider margins than a questionnaire (it comes down to the fact that people rarely repeat themselves in spontaneous natural language, whereas questionnaires make heavy use of repetition, or at least rhyming). Perhaps of interest to our group's analysis is the claim that Spearman-Brown prediction formula is generally are more accurate approximation of a word-category's internal consistency than is Cronbach's alpha.",5,4.5,neimhin,The Development and Psychometric Properties of LIWC2015,pennebaker,2015,pennebaker-2015,"@techreport{pennebaker-2015,
+  title={The development and psychometric properties of LIWC2015},
+  author={Pennebaker, James W and Boyd, Ryan L and Jordan, Kayla and Blackburn, Kate},
+  year={2015}
+}","LIWC, psychometrics",https://repositories.lib.utexas.edu/server/api/core/bitstreams/b0d26dcf-2391-4701-88d0-3cf50ebee697/content,
+,,,,neimhin,Cosmic: Commonsense knowledge for emotion identification in conversations,ghosal,2020,ghosal-2020,"@article{ghosal-2020,
+  title={Cosmic: Commonsense knowledge for emotion identification in conversations},
+  author={Ghosal, Deepanway and Majumder, Navonil and Gelbukh, Alexander and Mihalcea, Rada and Poria, Soujanya},
+  journal={arXiv preprint arXiv:2010.02795},
+  year={2020}
+}","emotion identification, commonsense knowledge",https://arxiv.org/pdf/2010.02795.pdf,
+ben ,"systematic application of latent profile analysis (LPA) to a selection of 500 reddit posts, sourced from r/anxiety and r/depression. ",5,4.5,neimhin,The Stories We Tell Influence the Support We Receive: Examining the Reception of Support-Seeking Messages on Reddit,adelina,2023,adelina-2023,"@article{adelina-2023,
+  title={The stories we tell influence the support we receive: examining the reception of support-seeking messages on Reddit},
+  author={Adelina, Nadia and Chan, Christian S and Takano, Keisuke and Yu, Placida Hoi Man and Wong, Patrina Hei Tung and Barry, Tom J},
+  journal={Cyberpsychology, Behavior, and Social Networking},
+  volume={26},
+  number={11},
+  pages={823--834},
+  year={2023},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}","support-seeking, reddit, response to support-seeking",https://www.liebertpub.com/doi/pdf/10.1089/cyber.2023.0144,
+pranav,,4,4,neimhin,Automatic Sarcasm Detection: A Survey,joshi,2017,joshi-2017,"@article{joshi-2017,
+  title={Automatic sarcasm detection: A survey},
+  author={Joshi, Aditya and Bhattacharyya, Pushpak and Carman, Mark J},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={50},
+  number={5},
+  pages={1--22},
+  year={2017},
+  publisher={ACM New York, NY, USA}
+}",sarcasm detection,https://dl.acm.org/doi/pdf/10.1145/3124420,
+,,,,neimhin,Techniques of Sarcasm Detection: A Review,verma,2021,verma-2021,"@inproceedings{verma-2021,
+  title={Techniques of sarcasm detection: A review},
+  author={Verma, Palak and Shukla, Neha and Shukla, AP},
+  booktitle={2021 International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE)},
+  pages={968--972},
+  year={2021},
+  organization={IEEE}
+}",sarcasm detection,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9404585,
+n/a,"The authors find 101 known fraudulent 10-K filings, and 101 likely non-fraudulent 10-K filings, and use Agent99 Analyzer to extract features from the texts of the MD&A sections. Statistical and Machine Learning algorithms are found to classify the fraudulent and non-fraudulent filings more accurately than human judges typically perform in deception detection tasks. It is also found that the false positive and false negative rates are more balanced than for human judges, indicating less bias from the statistical and machine learning algorithms. The athors discuss a wide range of approaches to analysis and detection of deceipt, outlining the underlying assumptions of each approach. Some approaches focus more on the deceiver's intentional additions that are intended to deceive, whereas others focus on the unintentional 'leakage' of information arising from the deceivers attempt to deceive. The author's note that larger companies are likely to afford more resources to producing misleading or deceptive MD&As. The research study itself may serve fraudulent companies in adjusting their methods of deception. However, I believing forcing companies to dedicate more resources in order to successfully deceive is a societal good. It means that more people within the company will be privy to the deception, which increases the chance of whistleblowers stepping forward, and it simply increases the cost of deception, which disencentivises it. The linguistic/textual features extracted primarily use counts or ratios of word categories in the text as proxies for metalinguistic properties such as syntactic/lexical complexity, verbosity, imagery, deference, uncertainty.",,,carl,Identification of fraudulent financial statements using linguistic credibility analysis,humpherys,2011,humpherys-2011,"@article{humpherys-2011,
+  title={Identification of fraudulent financial statements using linguistic credibility analysis},
+  author={Humpherys, Sean L and Moffitt, Kevin C and Burns, Mary B and Burgoon, Judee K and Felix, William F},
+  journal={Decision Support Systems},
+  volume={50},
+  number={3},
+  pages={585--594},
+  year={2011},
+  publisher={Elsevier}
+}",fraudulent financial statements,https://github.com/text-analytics-cs7is1-g3/literature/blob/main/humpherys-2011-1-s2.0-S0167923610001338-main.pdf,
+tarun,,4.5,4,tarun,A Survey of Sarcasm Detection Techniques in Natural Language Processing,singh,2023,singh-2023,"@inproceedings{singh-2023,
+  title={A Survey of Sarcasm Detection Techniques in Natural Language Processing},
+  author={Singh, Bhuvanesh and Sharma, Dilip Kumar},
+  booktitle={2023 6th International Conference on Information Systems and Computer Networks (ISCON)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+}",,https://ieeexplore-ieee-org.elib.tcd.ie/stamp/stamp.jsp?tp=&arnumber=10112176,https://ieeexplore-ieee-org.elib.tcd.ie/stamp/stamp.jsp?tp=&arnumber=10112176
+n/a,,,,carl,The great Eskimo vocabulary hoax,pullum,1989,pullum-1989,"@article{pullum-1989,
+  title={The great Eskimo vocabulary hoax},
+  author={Pullum, Geoffrey K},
+  journal={Natural Language \& Linguistic Theory},
+  pages={275--281},
+  year={1989},
+  publisher={JSTOR}
+}","misconceptions, rumor, Eskimo vocabulary",https://www.jstor.org/stable/pdf/4047733.pdf,
+neimhin,"AKA word2vec: The authors propose two neural network based models for learning vector representations of words. A Huffman trie is used for word tokenization. The Continuous Bag of Words model is trained to predict a missing word, given the word's context, and the Skip-Gram model is trained to predict the contextual words, given a central word. The properties of the extracted word-embeddings are tested on a novel test set, and it is shown that syntactic and semantic relationships between words have analogies to arithmetic operations of the vector representations in many cases. Vector representations of words based on Context Vectors had already been demonstrated, but the strong performance of the representations for both syntactic and semantic relationships was of note. The intuitive mapping of algebra of word representations to semantic associations between words has facilitated new applications and approaches to text analysis.",,,neimhin,Efficient Estimation of Word Representations in Vector Space,mikolov,2013,mikolov-2013,"@article{mikolov-2013,
+  added-at = {2013-10-23T23:02:12.000+0200},
+  author = {Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey},
+  biburl = {https://www.bibsonomy.org/bibtex/29665b85e8756834ac29fcbd2c6ad0837/wool},
+  ee = {http://arxiv.org/abs/1301.3781},
+  interhash = {e92df552b17e9f952226a893b84ad739},
+  intrahash = {9665b85e8756834ac29fcbd2c6ad0837},
+  journal = {CoRR},
+  keywords = {nlp},
+  timestamp = {2013-10-23T23:02:12.000+0200},
+  title = {Efficient Estimation of Word Representations in Vector Space},
+  url = {http://dblp.uni-trier.de/db/journals/corr/corr1301.html#abs-1301-3781},
+  volume = {abs/1301.3781},
+  year = 2013
+}
+",word representations,https://arxiv.org/pdf/1301.3781.pdf,
+n/a,,4.5,5,carl,Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup,seraj,2021,seraj-2021,"@article{seraj-2021,
+  title={Language left behind on social media exposes the emotional and cognitive costs of a romantic breakup},
+  author={Seraj, Sarah and Blackburn, Kate G and Pennebaker, James W},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={7},
+  pages={e2017154118},
+  year={2021},
+  publisher={National Acad Sciences}
+}","social media, breakups, reddit",https://www.pnas.org/doi/pdf/10.1073/pnas.2017154118,
+,,,,pranav,Why do users of online mental health communities get likes and reposts: a combination of text mining and empirical analysis,liu,2021,liu-2021,"@inproceedings{liu-2021,
+  title={Why do users of online mental health communities get likes and reposts: a combination of text mining and empirical analysis},
+  author={Liu, Jingfang and Kong, Jun},
+  booktitle={Healthcare},
+  volume={9},
+  number={9},
+  pages={1133},
+  year={2021},
+  organization={MDPI}
+}","online communities, mental health",https://www.mdpi.com/2227-9032/9/9/1133/pdf,
+pranav,,5,5,ben,VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text,hutto,2014,hutto-2014,"@article{hutto-2014, title={VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text}, volume={8}, url={https://ojs.aaai.org/index.php/ICWSM/article/view/14550}, DOI={10.1609/icwsm.v8i1.14550}, abstractNote={ &lt;p&gt; The inherent nature of social media content poses serious challenges to practical applications of sentiment analysis. We present VADER, a simple rule-based model for general sentiment analysis, and compare its effectiveness to eleven typical state-of-practice benchmarks including LIWC, ANEW, the General Inquirer, SentiWordNet, and machine learning oriented techniques relying on Naive Bayes, Maximum Entropy, and Support Vector Machine (SVM) algorithms. Using a combination of qualitative and quantitative methods, we first construct and empirically validate a gold-standard list of lexical features (along with their associated sentiment intensity measures) which are specifically attuned to sentiment in microblog-like contexts. We then combine these lexical features with consideration for five general rules that embody grammatical and syntactical conventions for expressing and emphasizing sentiment intensity. Interestingly, using our parsimonious rule-based model to assess the sentiment of tweets, we find that VADER outperforms individual human raters (F1 Classification Accuracy = 0.96 and 0.84, respectively), and generalizes more favorably across contexts than any of our benchmarks. &lt;/p&gt; }, number={1}, journal={Proceedings of the International AAAI Conference on Web and Social Media}, author={Hutto, C. and Gilbert, Eric}, year={2014}, month={May}, pages={216-225} }","rule-based, social media, VADER",https://ojs.aaai.org/index.php/ICWSM/article/download/14550/14399/18068,
+,,,,neimhin,Bootstrapping Syntactic Categories Using Statistical Methods,finch,1992,finch-1992,"@article{finch-1992,
+  title={Bootstrapping Syntactic Categories Using Statistical Methods},
+  author={Finch, Stevent and Chater, Nick}, pages={229--235}, journal={14th Annual Conference of the Cognitive Science Society}, year={1992}
+}","vector representations, counts, context vectors",https://d1wqtxts1xzle7.cloudfront.net/42222888/Bootstrapping_syntactic_categories_using20160206-3397-1811ow7-libre.pdf?1454783128=&response-content-disposition=inline%3B+filename%3DBootstrapping_syntactic_categories_using.pdf&Expires=1709119989&Signature=co4a5L9~JsJMeZoP~R50eY45gCWPjhZvUno8e6oFN~uZ9jF9XVfVxqs3unHmRHuyZfnOF7P6kmfopIYpvxhTVeU~sLNxnqhctgbR7nue6ucrlzV0u-FOuQ7EpXG0Q2s6HLmnILhSBssv3Z0~pjlMNw6WAy8EHNlueB5~UYaE-0UBHfPs9o~asEf0daAPux5N0TlEu5Qf9SEt-fNL637ShM74G2w8Ft-hkkdJwvucMrIvnUGcFb8tWHdtHJK2KrbfhIksmS~hn2Mnuw~e9zkoIVy43MSmB8L7u0ZtfNV5vr2oJi34OFneL5VJGrbSGgSlpyMGEZ0Ky0f~XZAGRpVPKw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA,
+,,,,neimhin,The Pushshift Reddit Dataset,baumgartner,2020,baumgartner-2020,"@article{baumgartner-2020,
+  author       = {Jason Baumgartner and
+                  Savvas Zannettou and
+                  Brian Keegan and
+                  Megan Squire and
+                  Jeremy Blackburn},
+  title        = {The Pushshift Reddit Dataset},
+  journal      = {CoRR},
+  volume       = {abs/2001.08435},
+  year         = {2020},
+  url          = {https://arxiv.org/abs/2001.08435},
+  eprinttype    = {arXiv},
+  eprint       = {2001.08435},
+  timestamp    = {Fri, 24 Jan 2020 15:00:57 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2001-08435.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}","pushshift, reddit, dumps, API",https://arxiv.org/pdf/2001.08435.pdf,
+,,,,ben,Guidelines for Establishing Reliability When Coding Narrative Data,syed,2015,syed-2015,"@article{article,
+author = {Syed, Moin and Nelson, Sarah},
+year = {2015},
+month = {05},
+pages = {},
+title = {Guidelines for Establishing Reliability When Coding Narrative Data},
+volume = {3},
+journal = {Emerging Adulthood},
+doi = {10.1177/2167696815587648}
+}","coding, narrative text",https://www.researchgate.net/publication/277968290_Guidelines_for_Establishing_Reliability_When_Coding_Narrative_Data,
+,,,,ben,Analysis of Moral Judgement on Reddit,botzer,2021,botzer-2021,"@article{botzer-2021,
+      title={Analysis of Moral Judgement on Reddit}, 
+      author={Nicholas Botzer and Shawn Gu and Tim Weninger},
+      year={2021},
+      eprint={2101.07664},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI}
+}","reddit, moral judgement detection",https://arxiv.org/pdf/2101.07664.pdf,
+,,,,neimhin,Frustratingly Easy Meta-Embedding – Computing Meta-Embeddings by Averaging Source Word Embeddings,coates,2018,coates-2018,"@article{coates-2018,
+  title={Frustratingly Easy Meta-Embedding--Computing Meta-Embeddings by Averaging Source Word Embeddings},
+  author={Coates, Joshua and Bollegala, Danushka},
+  journal={arXiv preprint arXiv:1804.05262},
+  year={2018}
+}",meta-embeddings,https://arxiv.org/pdf/1804.05262.pdf,
+,,,,neimhin,Find your why,sinek,2019,sinek-2019,"@book{sinek-2019,
+  title={Find your why},
+  author={Sinek, Simon},
+  year={2019},
+  publisher={Gramedia Pustaka Utama}
+}","business leadership, popular self-help",,
+pranav,,4,3.5,neimhin,"Classifying Reasonability in Retellings of Personal Events Shared on Social Media:
+A Preliminary Case Study with /r/AmITheAsshole",haworth,2021,haworth-2021,"@inproceedings{haworth-2021,
+  title={Classifying reasonability in retellings of personal events shared on social media: A preliminary case study with/r/amitheasshole},
+  author={Haworth, Ethan and Grover, Ted and Langston, Justin and Patel, Ankush and West, Joseph and Williams, Alex C},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={15},
+  pages={1075--1079},
+  year={2021}
+}",r/AmItheAsshole,https://ojs.aaai.org/index.php/ICWSM/article/download/18133/17936,
+aadesh,,,,neimhin,Explainable Patterns for Distinction and Prediction of Moral Judgement on Reddit,efstathiadis,2022,efstathiadis-2022,"@article{efstathiadis-2022,
+  title={Explainable patterns for distinction and prediction of moral judgement on reddit},
+  author={Efstathiadis, Ion Stagkos and Paulino-Passos, Guilherme and Toni, Francesca},
+  journal={arXiv preprint arXiv:2201.11155},
+  year={2022}
+}","r/AmItheAsshole, moral judgement",https://arxiv.org/pdf/2201.11155.pdf,
+tarun,,4,4,neimhin,Analysis of Moral Judgement on Reddit,botzer,2022,botzer-2022,"@article{botzer-2022,
+  title={Analysis of moral judgment on reddit},
+  author={Botzer, Nicholas and Gu, Shawn and Weninger, Tim},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2022},
+  publisher={IEEE}
+}","r/AmItheAsshole, moral judgement",https://arxiv.org/pdf/2101.07664.pdf,
+ben,"Researchers leveraged ChatGPT on AITA data to assess two research questions: 1. how agreeable are GPT's responses with the original posting's responses (indicating GPT's capability of gauging human behaviour)? 2. how consistent are GPT's responses (indicating stability and assurance of results)? For YTA labels, GPT-3.5T offered an agreement rate of 64.88%; GPT-4 offered 68.67%. For NTA labels, GPT-3.5T offered an agreement rate of 85%, GPT-4 88.67%. In terms of consistency, YTA GPT-3.5T offered a rate of 92%, GPT-4 offered a rate of 80%. For NTA posts, GPT-3.5T offered 94%, GPT-4 offered 91%.",3,3,neimhin,Leveraging ChatGPT for Human Behavior Assessment: Potential Implications for Mental Health Care,haman,2023,haman-2023,"@article{haman-2023,
+  title={Leveraging ChatGPT for human behavior assessment: potential implications for mental health care},
+  author={Haman, Michael and {\v{S}}koln{\'\i}k, Milan and {\v{S}}ubrt, Tom{\'a}{\v{s}}},
+  journal={Annals of Biomedical Engineering},
+  volume={51},
+  number={11},
+  pages={2362--2364},
+  year={2023},
+  publisher={Springer}
+}","r/AmItheAsshole, mental health",https://link.springer.com/content/pdf/10.1007/s10439-023-03269-z.pdf,
+neimhin,"The researchers study advice-seeking behaviour on the Reddit subforums r/AmItheAsshole and r/relationships, which are text-heavy forums. They note that such forums have a tendency to reinforce cultural norms and moral behaviour. In our study we take an interest in the productivity and social cohesion visible in advice-seeking behaviour itself. The choices users make in advice-seeking and advice-giving may itself abide by cultural norms and moral behaviours reinforced by the forum. Our first approximation analysis does not account for this auto-regressive dynamic and thus leaves room for future work. The study by Cannon (2021) uses nearly 1000 posts from r/AmItheAsshole and r/relationships, all of which were posted in the same calendar month, and which organised by Reddit's internal algorithm using the query ""top"", which is a black-box algorithm from the perspective of researchers. One of the authors' research questions centres around engagement, but their sampling approach biases towards posts with higher engagement. The authors leverage some stylistic norms in the texts to extract demographic data about the individuals involved in users' self-disclosure stories, finding that about 65% of posts follow the stylistic norms in a manner amenable to automated data extraction with regular expressions. The study does not examine relationships between language use and productive/helpful conversations or animosity.",,,neimhin,“Don’t Downvote A$$$$$$s!!”: An Exploration of Reddit’s Advice Communities,cannon,2021,cannon-2021,"@article{cannon-2021,
+  title={"" Don't Downvote A$\backslash$$$\backslash$$$\backslash$$$\backslash$$$\backslash$$$\backslash$$ s!!"": An Exploration of Reddit's Advice Communities},
+  author={Cannon, Emily and Crouse, Bianca and Ghosh, Souvick and Rihn, Nicholas and Chua, Kristen},
+  journal={arXiv preprint arXiv:2109.09044},
+  year={2021}
+}","r/AmItheAsshole, advice forums",https://arxiv.org/pdf/2109.09044.pdf,
+n/a,The authors hypothesise that Trump uses twitter to divert established media from topics he ,,,carl,Using the president’s tweets to understand political diversion in the age of social media,lewandowsky,2020,lewandowsky-2020,"@article{lewandowsky-2020,
+  title={Using the president’s tweets to understand political diversion in the age of social media},
+  author={Lewandowsky, Stephan and Jetter, Michael and Ecker, Ullrich KH},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={5764},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}","social media, age, celebrity",https://www.nature.com/articles/s41467-020-19644-6.pdf,
+,,,,neimhin,The epistemics of advice-giving sequences: Epistemic primacy and subordination in advice rejection,zhang,2021,zhang-2021,"@article{zhang-2021,
+  title={The epistemics of advice-giving sequences: Epistemic primacy and subordination in advice rejection},
+  author={Zhang, Shuling},
+  journal={Discourse Studies},
+  volume={23},
+  number={6},
+  pages={705--725},
+  year={2021},
+  publisher={SAGE Publications Sage UK: London, England}
+}",advice-giving,https://github.com/text-analytics-cs7is1-g3/literature/blob/2a837cba3cbc2f9e3ba1e8f276dec145cccb4800/zhang-2021-the-epistemics-of-advice-giving-sequences-epistemic-primacy-and-subordination-in-advice-rejection.pdf,
+,,,,carl,Conversations gone alright: Quantifying and predicting prosocial outcomes in online conversations,bao,2021,bao-2021,"@inproceedings{bao-2021,
+  title={Conversations gone alright: Quantifying and predicting prosocial outcomes in online conversations},
+  author={Bao, Jiajun and Wu, Junjie and Zhang, Yiming and Chandrasekharan, Eshwar and Jurgens, David},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={1134--1145},
+  year={2021}
+}",prosocial outcomes,https://dl.acm.org/doi/pdf/10.1145/3442381.3450122?casa_token=qwPceE8PFbUAAAAA:5R6R9b9CrmMzfb-ePDGhCIzEFL4tfVC6ijAvKkes_C2dzeJ151hSoCWelyuR9eYpSrCVOJrCO62wmjw,
+,,,,neimhin,"Predicting Receptiveness to Advice: Characteristics of the Problem, the Advice-Giver, and the Recipient",feng,2006,feng-2006,"@article{feng-2006,
+author = {Bo Feng and Erina L. MacGeorge},
+title = {Predicting Receptiveness to Advice: Characteristics of the Problem, the Advice-Giver, and the Recipient},
+journal = {Southern Communication Journal},
+volume = {71},
+number = {1},
+pages = {67-85},
+year = {2006},
+publisher = {Routledge},
+doi = {10.1080/10417940500503548},
+URL = { 
+        https://doi.org/10.1080/10417940500503548
+},
+eprint = { 
+        https://doi.org/10.1080/10417940500503548
+}
+}",receptiveness to advice,https://github.com/text-analytics-cs7is1-g3/literature/blob/main/feng-2006-Predicting%20Receptiveness%20to%20Advice%20Characteristics%20of%20the%20Problem%20the%20Advice-Giver%20and%20the%20Recipient.pdf,
+pranav,,,,pranav,"Exploring the Impact of Emotions, on Reddit Conversations",,,,,,,
+pranav,,3,3,pranav,"
+Anger Breeds Controversy: Analyzing Controversy and Emotions on Reddit",chen,2023,chen-2023,"@InProceedings{chen-2023,
+author=""Chen, Kai
+and He, Zihao
+and Chang, Rong-Ching
+and May, Jonathan
+and Lerman, Kristina"",
+editor=""Thomson, Robert
+and Al-khateeb, Samer
+and Burger, Annetta
+and Park, Patrick
+and A. Pyke, Aryn"",
+title=""Anger Breeds Controversy: Analyzing Controversy and Emotions on Reddit"",
+booktitle=""Social, Cultural, and Behavioral Modeling"",
+year=""2023"",
+publisher=""Springer Nature Switzerland"",
+address=""Cham"",
+pages=""44--53"",
+abstract=""Emotions play an important role in interpersonal interactions and social conflict, yet their function in the development of controversy and disagreement in online conversations has not been fully explored. To address this gap, we study controversy on Reddit, a popular network of online discussion forums. We collect discussions from various topical forums and use emotion detection to recognize a range of emotions from text, including anger, fear, joy, admiration, etc. (Code and dataset are publicly available at https://github.com/ChenK7166/controversy-emotion). We find controversial comments express more anger and less admiration, joy, and optimism than non-controversial comments. Moreover, controversial comments affect emotions of downstream comments, resulting in a long-term increase in anger and a decrease in positive emotions. The magnitude and direction of emotional change differ by forum. Finally, we show that emotions help better predict which comments will become controversial. Understanding the dynamics of emotions in online discussions can help communities to manage conversations better."",
+isbn=""978-3-031-43129-6""
+}
+",Controversy · Emotion · Reddit,https://link.springer.com/chapter/10.1007/978-3-031-43129-6_5,
+,,,,neimhin,It’s going to be okay: Measuring Access to Support in Online Communities,wang,2018,wang-2018,"@inproceedings{wang-2018,
+  title={It’s going to be okay: Measuring access to support in online communities},
+  author={Wang, Zijian and Jurgens, David},
+  booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
+  pages={33--45},
+  year={2018}
+}","support, social media",https://aclanthology.org/D18-1004.pdf,

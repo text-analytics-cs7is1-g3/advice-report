@@ -1,0 +1,403 @@
+﻿[WEEK 3]
+Date:
+February 09, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Not applicable.
+
+
+c) matters arising from those minutes;
+Not applicable.
+
+
+d) matters for discussion such as suggested by all group members;
+Discussion of potential research questions.
+
+
+Minutes:
+Pranav suggests expanding categories beyond positive / neutral / negative based on  a paper surrounding sentiment analysis. Aadesh proposes descriptive analysis, extending beyond a binary positive / negative approach. Neimhin suggests analysing the dynamics between the advice-seeker’s post, the advice, and the advice-seeker’s response to that advice. Additional discussion carried out on research goals and data exploration.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Not applicable.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+10:00am, February 16, 2024; in-person.
+
+
+________________
+
+
+[WEEK 4]
+Date:
+February 16, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+Classification of affect; categorisation of language (positive and negative affect); subdivision of positive and negative affect; joy; sadness; empathy
+
+
+d) matters for discussion such as suggested by all group members;
+Research topic interpretation. Data collection.
+
+
+Minutes:
+We continued the interpretation and clarification of the research topic to align the team’s focus and objectives. We reviewed potential data sources including Pushshift and the Reddit API, specifically targeting subreddits such as r/AmItheAsshole and r/Advice. We discussed keyword query definitions essential for data collection in order to ensure relevance and accuracy. We discussed and proposed criteria for what constitutes a valid data point in the context of our research.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Neimhin has been selected to send the r/AmItheAsshole proposal to Professor Vogel.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+10:00am, February 23, 2024; hybrid.
+________________
+[WEEK 5]
+Date:
+February 23, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+Data collection.
+
+
+d) matters for discussion such as suggested by all group members;
+Preparation for the first draft on Thursday. Distribution of roles for first draft. Data collection challenges.
+
+
+Minutes:
+Pranav is assigned to take on the literature review section. Neimhin will handle the introduction, formulation of the research question, and hypotheses sections. Discussion on the limitations encountered with the Reddit API for data collection. The team agreed to use Pushshift, which provides comprehensive scrapes of Reddit data that can be accessed via torrent, as an alternative.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+All team members are to make their paper summaries available to Pranav.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+10:00am, February 23, 2024; hybrid.
+
+
+________________
+
+
+[WEEK 6]
+Date:
+March 1, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+Discussion of Pushshift versus Reddit API.
+
+
+d) matters for discussion such as suggested by all group members;
+Finalisation of data sources for both research questions, evaluation of the initial midterm draft, and discussion on relevant papers.
+
+
+Minutes:
+Final agreement upon the selection of Pushshift as the primary data source for both Research Questions (RQs), following a comparison with the Reddit API. Discussed the current status of our initial midterm draft. Identified areas requiring improvement and rewrote some sections to enhance clarity and depth. Engaged in a discussion of the paper by Adelina et al., and on the application of word2vec in sentiment analysis. This discussion highlighted potential methodologies and approaches beneficial for our project.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Number of group members is 1 less than other groups; contact Professor Vogel as to whether this will impact peer reviews.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+To be confirmed due to reading week.
+________________
+
+
+[WEEK 8]
+Date:
+March 15, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+No meeting took place due to reading week.
+
+
+d) matters for discussion such as suggested by all group members;
+Exploration of sentiment analysis tools (VADER and BERT) and their customization, along with the organisation of the dataset distribution.
+
+
+Minutes:
+Discussion re. the implementation and potential customization of the VADER sentiment analysis tool for our specific research needs. Neimhin has successfully organised the distribution of the raw dataset with HEAnet, ensuring secure and efficient data handling. A brief discussion on the use of BERT (Bidirectional Encoder Representations from Transformers) for our tasks was held. The team considered the technical requirements and the potential for BERT for our analysis.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Not applicable.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+March 22, 2024, 10:00
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+[WEEK 9]
+Date:
+March 22, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+Not applicable.
+
+
+d) matters for discussion such as suggested by all group members;
+Discussion on handling and methodology related to the manually annotated dataset, and processing strategies for the raw dataset.
+
+
+Minutes:
+Main focus surrounded the manually annotated dataset. The team reviewed the current status of the annotations and discussed the quality and consistency of the data. Strategies for improving the annotation process were proposed to ensure higher accuracy and reliability in the dataset.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Not applicable.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+March 29, 2024, 10:00
+
+
+________________
+
+
+[WEEK 10]
+Date:
+March 29, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+Not applicable.
+
+
+d) matters for discussion such as suggested by all group members;
+Discussion on the construction and use of the dataset for Research Question 1 (RQ1), extraction and application of BERT embeddings, and methodologies related to second-person object classification.
+
+
+Minutes:
+Neimhin led a discussion on the construction of the dataset for RQ1. The focus was on the criteria for inclusion of data points, the data cleaning processes, and preliminary results from the initial data compilation. A technical discussion ensued about the process of extracting BERT embeddings for the purpose of classifying textual data in the dataset. Considerations for optimising the extraction process and the potential challenges were highlighted. The discussion explored the methodology of classifying instances of ‘you’ as a second-person object in texts. Further research into STANZA required for this.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Not applicable.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+April 5, 2024, 10:00
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+[WEEK 11]
+Date:
+April 5, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+Not applicable.
+
+
+d) matters for discussion such as suggested by all group members;
+Focused discussions on the development and optimization of research components for Research Question 2 (RQ2), including schematic requirements, dataset construction, BERT embedding extractions, and development of a text ingestion and preprocessing pipeline.
+
+
+Minutes:
+The team engaged in a detailed discussion about the necessary schematics for the RQ2 dataset. This included the design, data to be included, and considerations for integration with analysis tools. Pranav provided an update on the ongoing construction of the dataset for RQ2. The focus was on the methods of data collection, challenges faced in terms of data quality and completeness, and strategies to ensure the dataset's quality.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Not applicable.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+April 12, 2024, 10:00
+
+
+________________
+
+
+[WEEK 12]
+Date:
+April 12, 2024
+
+
+a) attendance noting;
+Neimhin Robinson Gunning, Aadesh Milind Rasal, Tarun Singh, Benjamin David Vaughan, Pranav Raviraj Shetty
+
+
+b) veracity of the minutes of the preceding meeting as an accurate record;
+Verified; no amendments.
+
+
+c) matters arising from those minutes;
+Not applicable.
+
+
+d) matters for discussion such as suggested by all group members;
+Evaluation of statistical analyses including potential coefficients and logistic regression models for RQ2, and discussions on the progress and finalisation of the draft submission.
+
+
+Minutes:
+The team reviewed the results of the final coefficient analysis performed. The discussion focused on the implications of the findings, how they align with the hypotheses, and the statistical significance of the results. Adjustments and interpretations were considered based on the outcomes. Results from the logistic regression model were discussed, with a focus on classifier performance. The team analysed the model’s accuracy, and considered modifications to improve the model based on the feedback from the initial results. The current state of the submission was reviewed, including what sections are complete and what still needs work. The team set goals for finalising the submission, assigning responsibilities for each section of the paper, and establishing deadlines to ensure timely completion.
+
+
+e) time sheet records as maintained by the accountant;
+Updated in the designated timekeeping document.
+
+
+f) any other business;
+Not applicable.
+
+
+g) confirmation that all is proceeding properly, as recorded by the verifier, with divergences noted;
+Confirmed.
+
+
+h) the time, date, and location of the next meeting.
+Not applicable.
